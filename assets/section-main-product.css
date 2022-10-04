@@ -271,6 +271,7 @@ fieldset.product-form__input .form__label {
 
 .product-form__submit {
   margin-bottom: 1rem;
+  width: calc(25rem + var(--buttons-border-width) * 2);
 }
 
 .no-js .product-form__submit.button--secondary {
