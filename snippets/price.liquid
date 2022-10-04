@@ -28,6 +28,10 @@
   if target == product and product.price_varies
     assign money_price = 'products.product.price.from_price_html' | t: price: money_price
   endif
+
+  if available == false
+   assign money_price = 'products.product.sold_out' | t 
+  endif
 -%}
 
 <div class="price
@@ -84,10 +88,6 @@
   {%- if show_badges -%}
     <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
       {{ 'products.product.on_sale' | t }}
-    </span>
-
-    <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
-      {{ 'products.product.sold_out' | t }}
     </span>
   {%- endif -%}
 </div>
