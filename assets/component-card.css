@@ -169,8 +169,10 @@
 }
 
 .card__heading {
-  margin-top: 0;
+  margin-top: 0.2rem;
   margin-bottom: 0;
+  font-size: calc(var(--font-heading-scale) * 1.5rem);
+  float: left;
 }
 
 .card__heading:last-child {
@@ -303,11 +305,12 @@
 }
 
 .card-information > * + * {
-  margin-top: 0.5rem;
+  margin-top: 0rem
 }
 
 .card-information {
   width: 100%;
+  text-align: right;
 }
 
 .card-information > * {
@@ -326,7 +329,7 @@
 .card-information
   > *:not(.visually-hidden:first-child)
   + *:not(.rating) {
-  margin-top: 0.7rem;
+    margin-top: 0rem
 }
 
 .card-information .caption {
