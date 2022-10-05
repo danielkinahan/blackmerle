@@ -90,7 +90,8 @@
 
 .multicolumn-list__item.center .media--adapt,
 .multicolumn-list__item .media--adapt .multicolumn-card__image {
-  width: auto;
+  width: 100%;
+  height: 100%;
 }
 
 .multicolumn-list__item.center .media--adapt img {
@@ -181,8 +182,8 @@
 
 @media screen and (min-width: 750px) {
   .background-none .multicolumn-card__image-wrapper {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
   }
 
   .background-none .multicolumn-list .multicolumn-card__info,
