@@ -36,12 +36,6 @@
     max-width: {{ section.settings.logo_width }}px;
   }
 
-  @media screen and (min-width: 990px) {
-    header-drawer {
-      display: none;
-    }
-  }
-
   .menu-drawer-container {
     display: flex;
   }
@@ -517,7 +511,7 @@
     {%- endif -%}
 
     <div class="header__icons">
-      <details-modal class="header__search">
+      <!--details-modal class="header__search">
         <details>
           <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="{{ 'general.search.search' | t }}">
             <span>
@@ -588,7 +582,7 @@
             </div>
           </div>
         </details>
-      </details-modal>
+      </details-modal-->
 
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
