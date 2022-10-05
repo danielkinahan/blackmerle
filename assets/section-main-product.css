@@ -305,7 +305,7 @@ fieldset.product-form__input .form__label {
 /* Product info */
 
 .product__info-container > * + * {
-  margin: 1.5rem 0;
+  margin: 0 0;
 }
 
 .product__info-container iframe {
@@ -314,7 +314,7 @@ fieldset.product-form__input .form__label {
 
 .product__info-container .product-form,
 .product__info-container .product__description {
-  margin: 2.5rem 0;
+  margin: 1rem 0;
 }
 
 .product__text {
@@ -333,7 +333,7 @@ a.product__text {
 
 .product__title {
   word-break: break-word;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .product__title > * {
