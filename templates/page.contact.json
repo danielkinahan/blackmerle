@@ -1,1 +1,49 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":60,"padding_bottom":0}},"1663826374f416140e":{"type":"newsletter","blocks":{"16638263743db624b6-0":{"type":"heading","settings":{"heading":"stay updated","heading_size":"h2"}},"16638263743db624b6-1":{"type":"paragraph","settings":{"text":"<p>announcements \/ release info \/ exclusive offers<\/p>"}},"16638263743db624b6-2":{"type":"email_form","settings":{}}},"block_order":["16638263743db624b6-0","16638263743db624b6-1","16638263743db624b6-2"],"settings":{"color_scheme":"background-1","full_width":true,"padding_top":100,"padding_bottom":0}}},"order":["main","1663826374f416140e"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "1663826374f416140e": {
+      "type": "newsletter",
+      "blocks": {
+        "16638263743db624b6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "16638263743db624b6-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>announcements \/ release info \/ exclusive offers<\/p>"
+          }
+        },
+        "16638263743db624b6-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16638263743db624b6-0",
+        "16638263743db624b6-1",
+        "16638263743db624b6-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663826374f416140e"
+  ]
+}
