@@ -35,9 +35,9 @@
         "beb64c08-638a-4301-843a-2e14e5b67e6f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Details",
+            "icon": "none",
+            "content": "<p>56% Silk 44% Linen body<br\/>100% Cotton lining<br\/>Made in Korea<br\/>221-M01-564RG<\/p>",
             "page": ""
           }
         },
