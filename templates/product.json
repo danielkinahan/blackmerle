@@ -32,15 +32,6 @@
           "settings": {
           }
         },
-        "beb64c08-638a-4301-843a-2e14e5b67e6f": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Details",
-            "icon": "none",
-            "content": "<p>56% Silk 44% Linen body<br\/>100% Cotton lining<br\/>Made in Korea<br\/>221-M01-564RG<\/p>",
-            "page": ""
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -60,7 +51,6 @@
         "price",
         "quantity_selector",
         "66671874-11c3-4084-bdb8-101d8c957eaf",
-        "beb64c08-638a-4301-843a-2e14e5b67e6f",
         "variant_picker",
         "buy_buttons"
       ],
