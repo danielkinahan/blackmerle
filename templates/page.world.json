@@ -42,6 +42,7 @@
         },
         "1664356344291fef83-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/B0033315_72470573-534e-4d4c-bd25-7bed9cad83a6.jpg",
             "title": "Post 1",
@@ -59,6 +60,16 @@
             "link_label": "",
             "link": "https:\/\/blackmerle.com\/pages\/world-post-1"
           }
+        },
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -66,7 +77,8 @@
         "1664356344291fef83-2",
         "1664356344291fef83-1",
         "1664356344291fef83-0",
-        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f"
+        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
       ],
       "settings": {
         "title": "",
