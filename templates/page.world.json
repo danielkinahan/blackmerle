@@ -49,13 +49,24 @@
             "link_label": "",
             "link": "https:\/\/blackmerle.com\/pages\/world-post-1"
           }
+        },
+        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_73.png",
+            "title": "Post 1",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/blackmerle.com\/pages\/world-post-1"
+          }
         }
       },
       "block_order": [
         "e8892521-f762-4fa0-af6a-57c509a6dc25",
         "1664356344291fef83-2",
         "1664356344291fef83-1",
-        "1664356344291fef83-0"
+        "1664356344291fef83-0",
+        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f"
       ],
       "settings": {
         "title": "",
