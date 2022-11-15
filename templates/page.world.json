@@ -10,6 +10,16 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
+        "1664356344291fef83-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B0034738.jpg",
+            "title": "Post 4",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "1664356344291fef83-2": {
           "type": "column",
           "settings": {
@@ -18,16 +28,6 @@
             "text": "",
             "link_label": "",
             "link": "https:\/\/duckduckgo.com\/"
-          }
-        },
-        "1664356344291fef83-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B0034738.jpg",
-            "title": "Post 2",
-            "text": "",
-            "link_label": "",
-            "link": ""
           }
         },
         "1664356344291fef83-0": {
@@ -62,8 +62,8 @@
         }
       },
       "block_order": [
-        "1664356344291fef83-2",
         "1664356344291fef83-1",
+        "1664356344291fef83-2",
         "1664356344291fef83-0",
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
