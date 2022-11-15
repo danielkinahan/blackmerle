@@ -10,16 +10,6 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
-        "e8892521-f762-4fa0-af6a-57c509a6dc25": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/edit-1.jpg",
-            "title": "Post 4",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "1664356344291fef83-2": {
           "type": "column",
           "settings": {
@@ -72,7 +62,6 @@
         }
       },
       "block_order": [
-        "e8892521-f762-4fa0-af6a-57c509a6dc25",
         "1664356344291fef83-2",
         "1664356344291fef83-1",
         "1664356344291fef83-0",
