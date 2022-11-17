@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_f81cb25e-1c65-4663-883d-98539c37316b.jpg",
-            "title": "Post 3",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https:\/\/blackmerle.com\/pages\/world-post-3"
@@ -44,7 +44,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_73.png",
-            "title": "Post 1",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https:\/\/blackmerle.com\/pages\/world-post-1"
