@@ -87,20 +87,20 @@
     "166383477696d81de8": {
       "type": "multicolumn",
       "blocks": {
-        "16638347767250f22a-2": {
+        "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/edit-4.jpg",
-            "title": "",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/2.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "16638347767250f22a-1": {
+        "16638347767250f22a-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6.jpg",
+            "image": "shopify:\/\/shop_images\/edit-4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,8 +129,8 @@
         }
       },
       "block_order": [
+        "97f929e9-c8ad-4500-a71d-903208b3343e",
         "16638347767250f22a-2",
-        "16638347767250f22a-1",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "16638347767250f22a-0"
       ],
