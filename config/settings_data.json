@@ -145,29 +145,28 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "fb0e727e-72d7-418c-9875-3a364cbe6b7e": {
+          "bb32db54-eda1-4dce-b57a-12d96e39fa14": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
               "heading": "",
-              "menu": "main-menu"
+              "menu": "footer"
             }
           }
         },
         "block_order": [
-          "fb0e727e-72d7-418c-9875-3a364cbe6b7e"
+          "bb32db54-eda1-4dce-b57a-12d96e39fa14"
         ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "",
           "show_social": false,
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
           "margin_top": 0,
           "padding_top": 0,
-          "padding_bottom": 44
+          "padding_bottom": 0
         }
       },
       "main-password-header": {
