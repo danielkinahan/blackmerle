@@ -147,16 +147,6 @@
             "link": ""
           }
         },
-        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/midtripleblack-9_74413808-9122-44fa-a39e-5a09885434e2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
@@ -171,6 +161,16 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/midtripleblack-8_37c0858f-796a-4f74-b30b-f2fd71f23bab.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/midtripleblack-9_74413808-9122-44fa-a39e-5a09885434e2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -195,9 +195,9 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
         "fead0e9f-850b-4254-8b83-5958af1daddb",
+        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
         "9adbd88e-d576-4c0b-a1d0-032c9f130449"
       ],
       "settings": {
