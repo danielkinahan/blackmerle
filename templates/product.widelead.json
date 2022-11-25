@@ -156,16 +156,6 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "92f95d10-56ec-4ea1-b053-89ec3909826b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/midtripleblack-7.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -175,8 +165,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
-        "92f95d10-56ec-4ea1-b053-89ec3909826b"
+        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731"
       ],
       "settings": {
         "title": "",
