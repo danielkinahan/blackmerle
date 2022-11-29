@@ -110,7 +110,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fieldshirt_soot-10.jpg",
+            "image": "shopify:\/\/shop_images\/fieldshirt_soot-10-crop.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -150,7 +150,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fieldshirt_soot-1.jpg",
+            "image": "shopify:\/\/shop_images\/fieldshirt_soot-1-crop.jpg",
             "title": "",
             "text": "",
             "link_label": "",
