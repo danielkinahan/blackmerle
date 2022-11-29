@@ -100,7 +100,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wide_lead-1.jpg",
+            "image": "shopify:\/\/shop_images\/wide_lead-1_da8b20e7-b006-46ac-9496-1a2494798ddc.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -156,6 +156,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "897b0ad8-1b15-4bad-8001-4bdd9cc7242f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fatigue_lead_buttons-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -165,7 +175,8 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731"
+        "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
+        "897b0ad8-1b15-4bad-8001-4bdd9cc7242f"
       ],
       "settings": {
         "title": "",
