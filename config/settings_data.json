@@ -147,6 +147,7 @@
         "blocks": {
           "bb32db54-eda1-4dce-b57a-12d96e39fa14": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "",
               "menu": "footer"
