@@ -217,7 +217,24 @@
   outline: 0;
 }
 
+@media screen and (max-width: 749px) {
+  .card__heading {
+    float: none;
+  }
+  .card-information {
+    text-align: center;
+  }
+}
+
 @media screen and (min-width: 990px) {
+
+  .card__heading {
+    float: left;
+  }
+  .card-information {
+    text-align: right;
+  }
+
   .card .media.media--hover-effect > img:only-child,
   .card-wrapper .media.media--hover-effect > img:only-child {
     transition: transform var(--duration-long) ease;
@@ -302,7 +319,6 @@
 
 .card-information {
   width: 100%;
-  text-align: right;
 }
 
 .card-information > * {
