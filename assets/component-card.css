@@ -113,7 +113,6 @@
 .card__content {
   display: grid;
   grid-template-rows: minmax(0,1fr) max-content minmax(0,1fr);
-  padding: 1rem;
   width: 100%;
   flex-grow: 1;
 }
@@ -129,13 +128,6 @@
 
 .card:not(.ratio) > .card__content {
   grid-template-rows: max-content minmax(0,1fr) max-content auto;
-}
-
-@media screen and (min-width: 750px) {
-  .card__information {
-    padding-bottom: 1.7rem;
-    padding-top: 1.7rem;
-  }
 }
 
 .card__badge {
