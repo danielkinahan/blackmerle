@@ -338,7 +338,7 @@ a.product__text {
 
 .product__title > * {
   margin: 0;
-  font-size: calc(var(--font-heading-scale) * 2rem);
+  font-size: calc(var(--font-heading-scale) * 1.8rem);
 }
 
 .product__title > a {
