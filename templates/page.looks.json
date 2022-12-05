@@ -50,36 +50,6 @@
             "link": ""
           }
         },
-        "64a70ae8-560b-41fb-81e1-9ccc44d8a964": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-20.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-19.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "1664176334de82b4f6-0": {
           "type": "column",
           "settings": {
@@ -99,6 +69,36 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/test-19.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "64a70ae8-560b-41fb-81e1-9ccc44d8a964": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/test-3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/test-20.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -106,11 +106,11 @@
         "1664176334de82b4f6-1",
         "e9de8090-1cb0-4054-b897-3871e8e44a26",
         "8114eeee-3cf9-4ff3-be9b-59ec5eb9867b",
-        "64a70ae8-560b-41fb-81e1-9ccc44d8a964",
-        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc",
-        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5",
         "1664176334de82b4f6-0",
-        "1664176334de82b4f6-2"
+        "1664176334de82b4f6-2",
+        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5",
+        "64a70ae8-560b-41fb-81e1-9ccc44d8a964",
+        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc"
       ],
       "settings": {
         "title": "",
