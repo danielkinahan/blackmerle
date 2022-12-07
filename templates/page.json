@@ -7,25 +7,62 @@
         "padding_bottom": 16
       }
     },
-    "2c65c825-7b71-4d26-bdeb-90bcddbd6314": {
-      "type": "image-banner",
+    "af3ba67e-849d-40b6-b449-682cd473f07d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15280465674333__af3ba67e-849d-40b6-b449-682cd473f07d-16704131867e366763-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_221_looks1_3.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15280465674333__af3ba67e-849d-40b6-b449-682cd473f07d-16704131867e366763-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15280465674333__af3ba67e-849d-40b6-b449-682cd473f07d-16704131867e366763-0",
+        "template--15280465674333__af3ba67e-849d-40b6-b449-682cd473f07d-16704131867e366763-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/blackmerle_221_looks1_3.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     }
   },
   "order": [
     "main",
-    "2c65c825-7b71-4d26-bdeb-90bcddbd6314"
+    "af3ba67e-849d-40b6-b449-682cd473f07d"
   ]
 }
