@@ -12,7 +12,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/blackmerle_221_looks1_3.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
