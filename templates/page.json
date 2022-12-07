@@ -1,1 +1,32 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":32,"padding_bottom":16}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 32,
+        "padding_bottom": 16
+      }
+    },
+    "2c65c825-7b71-4d26-bdeb-90bcddbd6314": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackmerle_221_looks1_3.jpg",
+        "image_2": "shopify:\/\/shop_images\/blackmerle_221_looks1_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2c65c825-7b71-4d26-bdeb-90bcddbd6314"
+  ]
+}
