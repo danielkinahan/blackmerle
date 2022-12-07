@@ -15,7 +15,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/test-16_680c007e-faf5-4148-9dd4-2bb1a2cf8070.jpg",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/looks-1"
           }
@@ -55,7 +55,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/test-14.jpg",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/22-1-page"
           }
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/test-20.jpg",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }

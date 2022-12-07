@@ -10,22 +10,12 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
-        "1664356344291fef83-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-18.jpg",
-            "title": "",
-            "text": "<p><\/p>",
-            "link_label": "",
-            "link": "https:\/\/blackmerle.com\/pages\/world-post-3"
-          }
-        },
         "1664356344291fef83-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/test-11.jpg",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -59,14 +49,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "76e24b50-444b-4f31-8767-120f148f4b5c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/test-18.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "1664356344291fef83-2",
         "1664356344291fef83-0",
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
         "1664356344291fef83-1",
-        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
+        "76e24b50-444b-4f31-8767-120f148f4b5c"
       ],
       "settings": {
         "title": "",
