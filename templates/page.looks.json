@@ -10,15 +10,6 @@
     "1664176334c2bc9e60": {
       "type": "multicolumn",
       "blocks": {
-        "c770b5fd-5fdb-4c4a-aa58-b95e2fa7c263": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "5e870a19-2510-4213-ab2e-72503a550343": {
           "type": "column",
           "settings": {
@@ -111,7 +102,6 @@
         }
       },
       "block_order": [
-        "c770b5fd-5fdb-4c4a-aa58-b95e2fa7c263",
         "5e870a19-2510-4213-ab2e-72503a550343",
         "1664176334de82b4f6-1",
         "e9de8090-1cb0-4054-b897-3871e8e44a26",
