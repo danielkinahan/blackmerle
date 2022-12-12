@@ -13,7 +13,7 @@
         "1664356344291fef83-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/test-11.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_221_looks1_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -23,11 +23,11 @@
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/test-4.jpg",
+            "image": "shopify:\/\/shop_images\/scan-2-distory-vignette_1024x1024.2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/world-post-3"
           }
         },
         "1664356344291fef83-1": {
@@ -35,7 +35,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/test-17_fca0dbbc-bbed-4e19-88a3-19d42239156a.jpg",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -49,24 +49,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "76e24b50-444b-4f31-8767-120f148f4b5c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-18.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "1664356344291fef83-0",
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
         "1664356344291fef83-1",
-        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
-        "76e24b50-444b-4f31-8767-120f148f4b5c"
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
       ],
       "settings": {
         "title": "",
