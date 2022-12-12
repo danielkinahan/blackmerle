@@ -49,68 +49,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "1664176334de82b4f6-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-14.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/22-1-page"
-          }
-        },
-        "1664176334de82b4f6-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-8.jpg",
-            "title": "",
-            "text": "<p><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-19.jpg",
-            "title": "",
-            "text": "<p><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "64a70ae8-560b-41fb-81e1-9ccc44d8a964": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-3.jpg",
-            "title": "",
-            "text": "<p><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/test-20.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "5e870a19-2510-4213-ab2e-72503a550343",
         "1664176334de82b4f6-1",
         "e9de8090-1cb0-4054-b897-3871e8e44a26",
-        "8114eeee-3cf9-4ff3-be9b-59ec5eb9867b",
-        "1664176334de82b4f6-0",
-        "1664176334de82b4f6-2",
-        "ed19f0f6-be98-436b-bf7c-7eaf45190ee5",
-        "64a70ae8-560b-41fb-81e1-9ccc44d8a964",
-        "25075cac-ec8b-494f-9520-5a5ce2aa3ddc"
+        "8114eeee-3cf9-4ff3-be9b-59ec5eb9867b"
       ],
       "settings": {
         "title": "",
