@@ -29,22 +29,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "1664356344291fef83-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/easteregg4x3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
-        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
-        "1664356344291fef83-1"
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
       ],
       "settings": {
         "title": "",
