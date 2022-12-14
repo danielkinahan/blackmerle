@@ -186,6 +186,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "b2e1475d-f040-4b86-b61d-4b171c208c01": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hoodedjacket_doubleblack-12.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "78007866-7dfe-42af-bce5-7d1cc81770a4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hoodedjacket_doubleblack-13_5d2e4984-1836-4b43-89bb-28f393c08f88.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -198,7 +218,9 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb",
         "9adbd88e-d576-4c0b-a1d0-032c9f130449",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda"
+        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
+        "b2e1475d-f040-4b86-b61d-4b171c208c01",
+        "78007866-7dfe-42af-bce5-7d1cc81770a4"
       ],
       "settings": {
         "title": "",
