@@ -29,18 +29,29 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "415e459a-19a7-4125-b5b5-f7ed226dcca9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hoodedjacket_doubleblack-13_dd66994c-af86-41ea-8738-d32af14d5d90.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
-        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6"
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
+        "415e459a-19a7-4125-b5b5-f7ed226dcca9"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
