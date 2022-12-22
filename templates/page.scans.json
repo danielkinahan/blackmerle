@@ -13,17 +13,17 @@
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20221220_210103352_6b013a1a-5778-4f11-9915-6b1e52d779e8.png",
+            "image": "shopify:\/\/shop_images\/scan_test_edit-3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/world-post-3"
+            "link": ""
           }
         },
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/scanthumbnailtest-1.jpg",
+            "image": "shopify:\/\/shop_images\/scan_test_edit-4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -33,9 +33,48 @@
         "415e459a-19a7-4125-b5b5-f7ed226dcca9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fieldshirt_soot-8.jpg",
+            "image": "shopify:\/\/shop_images\/scan_test_edit-7.jpg",
             "title": "",
             "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c0ed4f48-d283-4d47-b20b-d54029b2a6e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/307646572_597415205506350_6918335523788025303_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6d7ce7fc-d189-4c3a-859d-aa3efa927c8a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/306283368_1226291121436561_8442190350420375454_n_259f077b-f881-4b95-b3a8-510182d10d25.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e8d19dcc-8a9c-48cd-af94-636fbe099cc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/308644713_806393577221594_3596475888309226809_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d9c314a5-f905-4cb1-bea0-f4ba024b6c7e": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -44,7 +83,11 @@
       "block_order": [
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
-        "415e459a-19a7-4125-b5b5-f7ed226dcca9"
+        "415e459a-19a7-4125-b5b5-f7ed226dcca9",
+        "c0ed4f48-d283-4d47-b20b-d54029b2a6e9",
+        "6d7ce7fc-d189-4c3a-859d-aa3efa927c8a",
+        "e8d19dcc-8a9c-48cd-af94-636fbe099cc6",
+        "d9c314a5-f905-4cb1-bea0-f4ba024b6c7e"
       ],
       "settings": {
         "title": "",
