@@ -59,6 +59,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "b2333962-4768-440d-b2c9-694a881f4ddb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scan_test_edit-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -66,7 +76,8 @@
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
         "6d7ce7fc-d189-4c3a-859d-aa3efa927c8a",
         "415e459a-19a7-4125-b5b5-f7ed226dcca9",
-        "c0ed4f48-d283-4d47-b20b-d54029b2a6e9"
+        "c0ed4f48-d283-4d47-b20b-d54029b2a6e9",
+        "b2333962-4768-440d-b2c9-694a881f4ddb"
       ],
       "settings": {
         "title": "",
