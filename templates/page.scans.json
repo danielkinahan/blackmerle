@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1664356345c77ed977": {
+      "type": "multicolumn",
+      "blocks": {
+        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20221220_210103352_6b013a1a-5778-4f11-9915-6b1e52d779e8.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/world-post-3"
+          }
+        },
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scanthumbnailtest-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "415e459a-19a7-4125-b5b5-f7ed226dcca9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fieldshirt_soot-8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
+        "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
+        "415e459a-19a7-4125-b5b5-f7ed226dcca9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664356345c77ed977"
+  ]
+}
