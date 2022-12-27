@@ -30,6 +30,16 @@
             "link": "shopify:\/\/pages\/world-post-3"
           }
         },
+        "02fa33df-dd82-4723-96d6-0a4e7e7a1612": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-12.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/world-2"
+          }
+        },
         "415e459a-19a7-4125-b5b5-f7ed226dcca9": {
           "type": "column",
           "settings": {
@@ -44,6 +54,7 @@
       "block_order": [
         "42e77b9d-66bd-4bb6-94e9-928d051f5c2f",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
+        "02fa33df-dd82-4723-96d6-0a4e7e7a1612",
         "415e459a-19a7-4125-b5b5-f7ed226dcca9"
       ],
       "settings": {
