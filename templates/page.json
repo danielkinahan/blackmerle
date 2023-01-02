@@ -7,34 +7,60 @@
         "padding_bottom": 16
       }
     },
-    "cb2392bf-b7cc-4e0f-a0f5-d10006083791": {
-      "type": "collage",
-      "blocks": {
-        "74e1fde0-f539-459d-b07f-843d11f5078e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_4629.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "74e1fde0-f539-459d-b07f-843d11f5078e"
-      ],
+    "2dbab68f-49c8-4693-bf5c-6717d038c3d3": {
+      "type": "image-banner",
       "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "none",
+        "image": "shopify:\/\/shop_images\/DSC_4629.jpg",
+        "image_2": "shopify:\/\/shop_images\/DSC_4892_samplle.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "8b6f6bea-fa49-40ff-98f3-61e876e35ece": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_4629.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3ac34f68-8d96-4d69-a6dc-c0f7d6f40fe7": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_4892_samplle.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "cb2392bf-b7cc-4e0f-a0f5-d10006083791"
+    "2dbab68f-49c8-4693-bf5c-6717d038c3d3",
+    "8b6f6bea-fa49-40ff-98f3-61e876e35ece",
+    "3ac34f68-8d96-4d69-a6dc-c0f7d6f40fe7"
   ]
 }
