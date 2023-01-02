@@ -6,9 +6,35 @@
         "padding_top": 32,
         "padding_bottom": 16
       }
+    },
+    "cb2392bf-b7cc-4e0f-a0f5-d10006083791": {
+      "type": "collage",
+      "blocks": {
+        "74e1fde0-f539-459d-b07f-843d11f5078e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_4629.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "74e1fde0-f539-459d-b07f-843d11f5078e"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "cb2392bf-b7cc-4e0f-a0f5-d10006083791"
   ]
 }
