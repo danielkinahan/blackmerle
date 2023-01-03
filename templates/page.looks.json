@@ -10,16 +10,6 @@
     "1664176334c2bc9e60": {
       "type": "multicolumn",
       "blocks": {
-        "571feae6-e365-4cb8-98ba-7bff072f8e49": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20230102_213641871.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba": {
           "type": "column",
           "settings": {
@@ -41,7 +31,6 @@
         }
       },
       "block_order": [
-        "571feae6-e365-4cb8-98ba-7bff072f8e49",
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba",
         "adf4a4ca-d1e5-4eec-83b9-bc98d7947981"
       ],
