@@ -116,12 +116,7 @@ details[open].menu-opening > .menu-drawer__submenu {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.04);
 }
 
-.js .menu-drawer__menu li {
-  margin-bottom: 0.2rem;
-}
-
 .menu-drawer__menu-item {
-  padding: 1.1rem 3.2rem;
   text-decoration: none;
   font-size: 1.8rem;
 }

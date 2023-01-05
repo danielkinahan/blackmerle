@@ -57,7 +57,7 @@
   }
 
   .list-menu__item {
-    line-height: calc(1 + 0.3 / var(--font-body-scale));
+    line-height: 0;
   }
 
   .list-menu__item--link {
@@ -130,66 +130,57 @@
             <div class="menu-drawer__inner-container">
               <div class="menu-drawer__navigation-container">
                 <nav class="menu-drawer__navigation">
-                  <ul class="menu-drawer__menu has-submenu list-menu" role="list">
-                    {%- for link in section.settings.menu.links -%}
-                      <li>
-                        {%- if link.links != blank -%}
-                          <details id="Details-menu-drawer-menu-item-{{ forloop.index }}">
-                            <summary class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.child_active %} menu-drawer__menu-item--active{% endif %}">
-                              {{ link.title | escape }}
-                              {% render 'icon-arrow' %}
-                              {% render 'icon-caret' %}
-                            </summary>
-                            <div id="link-{{ link.handle | escape }}" class="menu-drawer__submenu has-submenu gradient motion-reduce" tabindex="-1">
-                              <div class="menu-drawer__inner-submenu">
-                                <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
-                                  {% render 'icon-arrow' %}
-                                  {{ link.title | escape }}
-                                </button>
-                                <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1">
-                                  {%- for childlink in link.links -%}
-                                    <li>
-                                      {%- if childlink.links == blank -%}
-                                        <a href="{{ childlink.url }}" class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if childlink.current %} menu-drawer__menu-item--active{% endif %}"{% if childlink.current %} aria-current="page"{% endif %}>
-                                          {{ childlink.title | escape }}
-                                        </a>
-                                      {%- else -%}
-                                        <details id="Details-menu-drawer-submenu-{{ forloop.index }}">
-                                          <summary class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
-                                            {{ childlink.title | escape }}
-                                            {% render 'icon-arrow' %}
-                                            {% render 'icon-caret' %}
-                                          </summary>
-                                          <div id="childlink-{{ childlink.handle | escape }}" class="menu-drawer__submenu has-submenu gradient motion-reduce">
-                                            <button class="menu-drawer__close-button link link--text focus-inset" aria-expanded="true">
-                                              {% render 'icon-arrow' %}
-                                              {{ childlink.title | escape }}
-                                            </button>
-                                            <ul class="menu-drawer__menu list-menu" role="list" tabindex="-1">
-                                              {%- for grandchildlink in childlink.links -%}
-                                                <li>
-                                                  <a href="{{ grandchildlink.url }}" class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if grandchildlink.current %} menu-drawer__menu-item--active{% endif %}"{% if grandchildlink.current %} aria-current="page"{% endif %}>
-                                                    {{ grandchildlink.title | escape }}
-                                                  </a>
-                                                </li>
-                                              {%- endfor -%}
-                                            </ul>
-                                          </div>
-                                        </details>
-                                      {%- endif -%}
-                                    </li>
-                                  {%- endfor -%}
-                                </ul>
-                              </div>
-                            </div>
-                          </details>
-                        {%- else -%}
-                          <a href="{{ link.url }}" class="menu-drawer__menu-item list-menu__item link link--text focus-inset{% if link.current %} menu-drawer__menu-item--active{% endif %}"{% if link.current %} aria-current="page"{% endif %}>
-                            {{ link.title | escape }}
-                          </a>
-                        {%- endif -%}
-                      </li>
-                    {%- endfor -%}
+                  <ul class="menu-drawer__menu has-submenu list-menu" role="list" style="line-height:0;">
+                    {% comment %} This was a deliberate decision to not use a for loop. Shopify doesnt allow changing of image URLS and I have no way to iterate over them {% endcomment %}
+                    <li>
+                      <a href="/pages/about" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/about_static.png?v=1670381264" alt="about"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width:43rem" 
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/about_active.png?v=1670381264';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/about_static.png?v=1670381264';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/info" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/info_static.png?v=1670381262" alt="info"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width:43rem" 
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/info_active.png?v=1670381263';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/info_static.png?v=1670381262';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/collections/all" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/shop_static.png?v=1670381263" alt="shop"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width:43rem" 
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/shop_active.png?v=1670381262';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/shop_static.png?v=1670381263';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/looks" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/looks_static.png?v=1670381261" alt="looks"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width:43rem" 
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/looks_active.png?v=1670381262';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/looks_static.png?v=1670381261';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/world" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/world_static.png?v=1670381264" alt="world"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width:43rem" 
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/world_active.png?v=1670381264';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/world_static.png?v=1670381264';">
+                    </li>
                   </ul>
                 </nav>
                 <div class="menu-drawer__utility-links">
