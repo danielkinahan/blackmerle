@@ -257,7 +257,7 @@
         "template--15280465674333__939a1f26-51a6-4d0a-b9cd-0ea6df8603a6-16729926464d564371-0"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
