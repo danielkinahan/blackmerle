@@ -99,6 +99,18 @@
   transform: translateX(-50%);
 }
 
+.multicolumn-card__image {
+  transform: scale(1);
+  transition: transform var(--duration-long) ease;
+}
+
+.multicolumn-card__image:hover {
+  opacity: 1;
+  transition: transform var(--duration-long) ease;
+  transform: scale(1.03);
+}
+
+
 @media screen and (max-width: 749px) {
   .multicolumn-list {
     margin: 0;
