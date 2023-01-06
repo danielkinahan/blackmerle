@@ -146,6 +146,7 @@
         "template--15280465674333__56b1a962-4913-42f0-91d3-edfc64a5d676-1672992646b2c71012-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4966_test-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,6 +156,7 @@
         "template--15280465674333__56b1a962-4913-42f0-91d3-edfc64a5d676-1672992646b2c71012-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4920_test-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
