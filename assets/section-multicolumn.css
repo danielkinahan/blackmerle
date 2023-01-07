@@ -99,12 +99,12 @@
   transform: translateX(-50%);
 }
 
-.multicolumn-card__image {
+a[href^="/"] .multicolumn-card__image {
   transform: scale(1);
   transition: transform var(--duration-long) ease;
 }
 
-.multicolumn-card__image:hover {
+a[href^="/"] .multicolumn-card__image:hover {
   opacity: 1;
   transition: transform var(--duration-long) ease;
   transform: scale(1.03);
