@@ -113,6 +113,7 @@
     },
     "546aa769-c94e-4886-a8bb-724c81da2c6d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__546aa769-c94e-4886-a8bb-724c81da2c6d-1672992646b2c71012-0": {
           "type": "column",
