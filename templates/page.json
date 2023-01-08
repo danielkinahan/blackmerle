@@ -268,6 +268,73 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "110133b3-9d3a-460b-b390-449e0379e83a": {
+      "type": "multicolumn",
+      "blocks": {
+        "ec01b9d3-3875-4adb-bd73-a5c1ef034db6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_4966_final_2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a099b4f3-9d57-47bd-be80-66ab8dfcdd82": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_4317_final_2600.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3dd67bd5-47db-4ad8-a482-b7ca20f5af97": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_4805_final_2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e8f5c233-bde0-482f-9228-e62d211ae33b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_4730_final_2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ec01b9d3-3875-4adb-bd73-a5c1ef034db6",
+        "a099b4f3-9d57-47bd-be80-66ab8dfcdd82",
+        "3dd67bd5-47db-4ad8-a482-b7ca20f5af97",
+        "e8f5c233-bde0-482f-9228-e62d211ae33b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
@@ -278,6 +345,7 @@
     "d13548bb-a8f0-4d8e-abdb-5b3cadc455aa",
     "56b1a962-4913-42f0-91d3-edfc64a5d676",
     "939a1f26-51a6-4d0a-b9cd-0ea6df8603a6",
-    "c2229bac-d0a7-497c-9b60-7b9d93bb527b"
+    "c2229bac-d0a7-497c-9b60-7b9d93bb527b",
+    "110133b3-9d3a-460b-b390-449e0379e83a"
   ]
 }
