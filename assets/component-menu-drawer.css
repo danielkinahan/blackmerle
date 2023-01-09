@@ -68,6 +68,7 @@ menu-drawer > details[open] > summary::before {
 details[open].menu-opening > .menu-drawer__submenu {
   transform: translateX(0);
   visibility: visible;
+  overflow: hidden;
 }
 
 .js .menu-drawer__navigation .submenu-open {
