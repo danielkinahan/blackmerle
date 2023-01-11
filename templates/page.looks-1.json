@@ -381,7 +381,6 @@
     },
     "aad7a49c-906d-4e41-a68a-17513087ae94": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15390903730269__aad7a49c-906d-4e41-a68a-17513087ae94-1673437061af5ee9e5-2": {
           "type": "column",
@@ -412,41 +411,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "0cf723b5-d139-4fb9-abed-690fdfaa0c53": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15390903730269__0cf723b5-d139-4fb9-abed-690fdfaa0c53-167343706280d1bc3a-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3859_test-1.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15390903730269__0cf723b5-d139-4fb9-abed-690fdfaa0c53-167343706280d1bc3a-0"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 3,
-        "show_text_below": false,
-        "accessibility_info": ""
       }
     },
     "6913e4a0-c068-4edc-8117-84fed871db9f": {
@@ -496,7 +460,6 @@
     "110133b3-9d3a-460b-b390-449e0379e83a",
     "6bf06fd2-4340-4426-805a-7eaec88685f7",
     "aad7a49c-906d-4e41-a68a-17513087ae94",
-    "0cf723b5-d139-4fb9-abed-690fdfaa0c53",
     "6913e4a0-c068-4edc-8117-84fed871db9f"
   ]
 }
