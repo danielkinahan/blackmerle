@@ -10,6 +10,7 @@
     },
     "2ba689e6-f785-45f1-981b-49909a8cd530": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__2ba689e6-f785-45f1-981b-49909a8cd530-1672992646b2c71012-0": {
           "type": "column",
@@ -44,6 +45,7 @@
     },
     "7d665943-efd7-47a7-acc4-230824faedea": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__7d665943-efd7-47a7-acc4-230824faedea-1672992646b2c71012-0": {
           "type": "column",
@@ -78,6 +80,7 @@
     },
     "546aa769-c94e-4886-a8bb-724c81da2c6d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__546aa769-c94e-4886-a8bb-724c81da2c6d-1672992646b2c71012-0": {
           "type": "column",
@@ -112,6 +115,7 @@
     },
     "d13548bb-a8f0-4d8e-abdb-5b3cadc455aa": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "9eb6e3ee-2176-4e13-8b61-d27da5cfa6da": {
           "type": "column",
@@ -146,6 +150,7 @@
     },
     "56b1a962-4913-42f0-91d3-edfc64a5d676": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__56b1a962-4913-42f0-91d3-edfc64a5d676-1672992646b2c71012-0": {
           "type": "column",
@@ -191,6 +196,7 @@
     },
     "939a1f26-51a6-4d0a-b9cd-0ea6df8603a6": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15280465674333__939a1f26-51a6-4d0a-b9cd-0ea6df8603a6-16729926464d564371-0": {
           "type": "slide",
@@ -226,6 +232,7 @@
     },
     "c2229bac-d0a7-497c-9b60-7b9d93bb527b": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "cf26ef58-18bf-4cd3-89c8-4283ffaa7827": {
           "type": "column",
@@ -271,6 +278,7 @@
     },
     "110133b3-9d3a-460b-b390-449e0379e83a": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "ec01b9d3-3875-4adb-bd73-a5c1ef034db6": {
           "type": "column",
@@ -338,6 +346,7 @@
     },
     "6bf06fd2-4340-4426-805a-7eaec88685f7": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "18c69563-62d9-4719-97b7-8f140e20ee0d": {
           "type": "column",
