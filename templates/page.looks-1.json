@@ -181,6 +181,7 @@
     },
     "7460b18c-d9cb-4076-871e-cbcbb4533a25": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15390903730269__7460b18c-d9cb-4076-871e-cbcbb4533a25-1673437061af5ee9e5-0": {
           "type": "column",
@@ -229,7 +230,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/4642_test-5x7.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
