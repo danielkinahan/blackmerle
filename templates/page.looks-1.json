@@ -44,6 +44,7 @@
     },
     "e5769e33-d465-464d-83f6-74c31e532f3a": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15390903730269__e5769e33-d465-464d-83f6-74c31e532f3a-1673579995ef55c34a-0": {
           "type": "column",
@@ -76,8 +77,44 @@
         "padding_bottom": 36
       }
     },
+    "356a645d-881e-4c66-bfc3-928ab4a37c17": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15390903730269__356a645d-881e-4c66-bfc3-928ab4a37c17-1673579995ad54ccce-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4602_test-4.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15390903730269__356a645d-881e-4c66-bfc3-928ab4a37c17-1673579995ad54ccce-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
     "34da2e81-c6ed-4675-99ab-dd73eb3f1083": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15390903730269__34da2e81-c6ed-4675-99ab-dd73eb3f1083-1673437061af5ee9e5-0": {
           "type": "column",
@@ -476,6 +513,7 @@
     "main",
     "aad7a49c-906d-4e41-a68a-17513087ae94",
     "e5769e33-d465-464d-83f6-74c31e532f3a",
+    "356a645d-881e-4c66-bfc3-928ab4a37c17",
     "34da2e81-c6ed-4675-99ab-dd73eb3f1083",
     "7460b18c-d9cb-4076-871e-cbcbb4533a25",
     "9083f412-8941-4bf5-b9d5-e9de6a3b9347",
