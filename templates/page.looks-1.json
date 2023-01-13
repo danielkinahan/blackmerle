@@ -505,17 +505,17 @@
         "template--15390903730269__e86699a1-71aa-4dab-9b9c-54f29b8c5084-1673579995ef55c34a-1"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
