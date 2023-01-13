@@ -1,5 +1,13 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 32,
+        "padding_bottom": 16
+      }
+    },
     "39d4ebbc-6eeb-4219-a4a0-c510a625fac7": {
       "type": "multicolumn",
       "blocks": {
@@ -32,14 +40,6 @@
         "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 0
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 32,
-        "padding_bottom": 16
       }
     },
     "a33a0651-63a7-4463-a9c0-c006e9c244af": {
@@ -707,8 +707,8 @@
     }
   },
   "order": [
-    "39d4ebbc-6eeb-4219-a4a0-c510a625fac7",
     "main",
+    "39d4ebbc-6eeb-4219-a4a0-c510a625fac7",
     "a33a0651-63a7-4463-a9c0-c006e9c244af",
     "76cf19b0-4502-48e0-b708-4cb864326d54",
     "aad7a49c-906d-4e41-a68a-17513087ae94",
