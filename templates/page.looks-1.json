@@ -123,24 +123,6 @@
             "link": ""
           }
         },
-        "19f0cc8b-5937-4ea6-b0e0-90ef5fd770e5": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "bff3672b-b894-49a3-8fa3-b353832f4885": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--15390903730269__7460b18c-d9cb-4076-871e-cbcbb4533a25-1673437061af5ee9e5-2": {
           "type": "column",
           "settings": {
@@ -154,8 +136,6 @@
       },
       "block_order": [
         "template--15390903730269__7460b18c-d9cb-4076-871e-cbcbb4533a25-1673437061af5ee9e5-0",
-        "19f0cc8b-5937-4ea6-b0e0-90ef5fd770e5",
-        "bff3672b-b894-49a3-8fa3-b353832f4885",
         "template--15390903730269__7460b18c-d9cb-4076-871e-cbcbb4533a25-1673437061af5ee9e5-2"
       ],
       "settings": {
