@@ -306,7 +306,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/4519_test-5x7.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -322,7 +322,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/4514_test-5x7.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
