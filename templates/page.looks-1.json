@@ -265,22 +265,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--15390903730269__b3b5a025-361c-4d51-b080-ce5a7ea40519-1673579995ef55c34a-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5105_test-1_7568c441-8b16-4a63-9375-4fa54a3c239b.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--15390903730269__b3b5a025-361c-4d51-b080-ce5a7ea40519-1673579995ef55c34a-0",
-        "template--15390903730269__b3b5a025-361c-4d51-b080-ce5a7ea40519-1673579995ef55c34a-1",
-        "template--15390903730269__b3b5a025-361c-4d51-b080-ce5a7ea40519-1673579995ef55c34a-2"
+        "template--15390903730269__b3b5a025-361c-4d51-b080-ce5a7ea40519-1673579995ef55c34a-1"
       ],
       "settings": {
         "title": "",
