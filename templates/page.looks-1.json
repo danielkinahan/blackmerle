@@ -146,6 +146,7 @@
     },
     "a6a2479e-a5aa-4438-8b44-3040560472c9": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/4597_test-5x7-shift-1_1dc92097-4b08-448a-baaa-a0257d42dcff.jpg",
         "height": "adapt",
@@ -162,6 +163,7 @@
     },
     "c2b08d79-4f53-4046-b3f6-90b6df467c26": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/4660_test-5x7.jpg",
         "height": "adapt",
