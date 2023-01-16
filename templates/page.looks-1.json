@@ -517,21 +517,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "db347b11-d03e-4066-a81c-ea9a1e623830": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5214_test-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "0d372410-cbad-40b9-8d3c-2cada5189301",
-        "db347b11-d03e-4066-a81c-ea9a1e623830"
+        "0d372410-cbad-40b9-8d3c-2cada5189301"
       ],
       "settings": {
         "title": "",
