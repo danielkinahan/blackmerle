@@ -12,20 +12,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "a94fe98a-924d-48c8-8bb6-f29575d34fbc": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892",
-        "a94fe98a-924d-48c8-8bb6-f29575d34fbc"
+        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892"
       ],
       "settings": {
         "title": "",
