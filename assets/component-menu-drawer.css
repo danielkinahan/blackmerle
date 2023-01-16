@@ -51,7 +51,7 @@ menu-drawer > details[open] > summary::before {
 }
 
 .js .menu-drawer {
-  height: calc(100vh);
+  height: calc(110vh);
 }
 
 .js details[open] > .menu-drawer,
@@ -63,9 +63,15 @@ menu-drawer > details[open] > summary::before {
 .no-js details[open] > .menu-drawer,
 .js details[open].menu-opening > .menu-drawer,
 details[open].menu-opening > .menu-drawer__submenu {
-  transform: translateX(0);
+  /*transform: translate(0) translateY(-10rem);*/
+  animation: fadeIn 0.5s;
   visibility: visible;
   overflow: hidden;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .js .menu-drawer__navigation .submenu-open {
