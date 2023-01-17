@@ -514,3 +514,5 @@ noscript .localization-selector.link {
     }
   }
 }
+
+.footer {border-top: none !important;}
