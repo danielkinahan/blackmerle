@@ -130,7 +130,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "{{ shop.brand.logo }}",
-          "logo_width": 110,
+          "logo_width": 150,
           "logo_position": "middle-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
