@@ -6,7 +6,7 @@
         "2e5688dc-d9c6-4185-8933-9bd7d2e4c892": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_blendinginyetstandingout.png",
+            "image": "shopify:\/\/shop_images\/4465_test-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -33,9 +33,26 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "49cc823a-3664-4213-af51-d21d3a70a23f": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4465_test-1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
-    "multicolumn"
+    "multicolumn",
+    "49cc823a-3664-4213-af51-d21d3a70a23f"
   ]
 }
