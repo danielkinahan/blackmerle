@@ -12,20 +12,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "4894d1ac-14f5-4f17-9b10-831a7630a9d9": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892",
-        "4894d1ac-14f5-4f17-9b10-831a7630a9d9"
+        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892"
       ],
       "settings": {
         "title": "",
@@ -40,8 +30,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 28,
+        "padding_bottom": 40
       }
     }
   },
