@@ -39,8 +39,8 @@
       "search": "Search"
     },
     "cart": {
-      "view": "View my cart ({{ count }})",
-      "item_added": "Item added to your cart"
+      "view": "View cart ({{ count }})",
+      "item_added": "Item added to cart"
     },
     "share": {
       "close": "Close share",
