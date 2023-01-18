@@ -109,6 +109,12 @@ details[open].menu-opening > .menu-drawer__submenu {
   }
 }
 
+@media screen and (max-width: 749px) {
+  .list-menu {
+    scale: 85%;
+  }
+}
+
 .menu-drawer__inner-container {
   position: relative;
   height: 100%;
