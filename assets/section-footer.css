@@ -29,7 +29,6 @@
 
   .footer__content-top {
     padding-bottom: 0rem;
-    padding-left: calc(4rem / var(--font-body-scale));
     padding-right: calc(4rem / var(--font-body-scale));
   }
 }
