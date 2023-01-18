@@ -578,6 +578,9 @@ table:not([class]) th {
   .small-hide {
     display: none !important;
   }
+  .header__heading-logo {
+    width: 110px;
+  }
 }
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
@@ -2320,7 +2323,6 @@ input[type='checkbox'] {
 
 .header__heading-logo {
   height: auto;
-  width: 100%;
 }
 
 @media screen and (max-width: 989px) {
