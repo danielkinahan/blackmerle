@@ -224,6 +224,10 @@
   .card-information {
     text-align: center;
   }
+  .card__information {
+    scale: 85%;
+    padding: 0.5rem 1rem;
+  }
 }
 
 @media screen and (min-width: 990px) {
