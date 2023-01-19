@@ -217,7 +217,7 @@
   outline: 0;
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 990px) {
   .card__heading {
     float: none;
   }
@@ -225,8 +225,8 @@
     text-align: center;
   }
   .card__information {
-    scale: 85%;
-    padding: 0.5rem 1rem;
+    scale: 70%;
+    padding: 0.25rem 1rem;
   }
 }
 
