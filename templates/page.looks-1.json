@@ -256,7 +256,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 64,
+        "padding_top": 72,
         "padding_bottom": 100
       }
     },
@@ -272,7 +272,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 64,
+        "padding_top": 88,
         "padding_bottom": 100
       }
     },
