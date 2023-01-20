@@ -193,14 +193,14 @@
         "54473c49-191b-4c50-9c80-bbf834b9f6e7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4699_test-5x7-2.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-8.jpg",
             "image_padding": true
           }
         },
         "27626371-e52f-4473-9c6d-d54964400f4d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4690_test-1.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-9.jpg",
             "image_padding": true
           }
         }
@@ -212,7 +212,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "desktop_layout": "right",
+        "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
