@@ -187,6 +187,51 @@
         "padding_bottom": 100
       }
     },
+    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30": {
+      "type": "multicolumn",
+      "blocks": {
+        "2d428a96-ed26-458b-8d77-f377a86a6dc8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "75018764-d583-43e4-af81-440d84934cee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-9.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2d428a96-ed26-458b-8d77-f377a86a6dc8",
+        "75018764-d583-43e4-af81-440d84934cee"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    },
     "bc9e648a-558e-4a54-b83e-61a92c1b5c67": {
       "type": "collage",
       "blocks": {
@@ -443,6 +488,7 @@
     "23b196ab-1e48-4cf3-a62d-330caaaaad7b",
     "e86699a1-71aa-4dab-9b9c-54f29b8c5084",
     "6190cb95-50e5-416a-b051-ddbce8d25a88",
+    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30",
     "bc9e648a-558e-4a54-b83e-61a92c1b5c67",
     "3cb5b1b7-0dfd-496b-b732-e8530e106985",
     "b854f619-53c4-4434-952c-5ea8e70a48ef",
