@@ -331,75 +331,6 @@
         "padding_top": 0,
         "padding_bottom": 100
       }
-    },
-    "6913e4a0-c068-4edc-8117-84fed871db9f": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--15390903730269__6913e4a0-c068-4edc-8117-84fed871db9f-1673437061af5ee9e5-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4563_test-3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15390903730269__6913e4a0-c068-4edc-8117-84fed871db9f-1673437061af5ee9e5-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
-    },
-    "a62dede3-3790-49e9-9970-466e2460521c": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15390903730269__a62dede3-3790-49e9-9970-466e2460521c-1673437061af5ee9e5-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-16.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15390903730269__a62dede3-3790-49e9-9970-466e2460521c-1673437061af5ee9e5-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
@@ -414,8 +345,6 @@
     "cdd35f06-ecf6-40d6-88d5-8a9cb231f04d",
     "866f9c5b-d99a-4092-8e92-3d2cd5b6db5d",
     "b3b5a025-361c-4d51-b080-ce5a7ea40519",
-    "60bf52a6-bb28-45d6-ad69-8693e74781a0",
-    "6913e4a0-c068-4edc-8117-84fed871db9f",
-    "a62dede3-3790-49e9-9970-466e2460521c"
+    "60bf52a6-bb28-45d6-ad69-8693e74781a0"
   ]
 }
