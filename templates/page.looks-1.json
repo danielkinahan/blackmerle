@@ -407,7 +407,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 56,
+        "padding_top": 68,
         "padding_bottom": 100
       }
     },
@@ -476,7 +476,7 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 64,
+        "padding_top": 80,
         "padding_bottom": 100
       }
     },
