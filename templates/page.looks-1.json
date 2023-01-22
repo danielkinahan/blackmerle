@@ -348,8 +348,9 @@
         "8ec739e3-bdc3-4ac4-a8ae-334259a4c7b4": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-18.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
