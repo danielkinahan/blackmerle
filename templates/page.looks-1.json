@@ -467,10 +467,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "d3a872a7-a0f3-4592-b8d9-81004c2ca162": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "0e030946-beeb-4e03-be45-35bb3a445cf2"
+        "0e030946-beeb-4e03-be45-35bb3a445cf2",
+        "d3a872a7-a0f3-4592-b8d9-81004c2ca162"
       ],
       "settings": {
         "title": "",
