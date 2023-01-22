@@ -476,7 +476,7 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 72,
+        "padding_top": 64,
         "padding_bottom": 100
       }
     },
