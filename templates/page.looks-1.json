@@ -331,6 +331,40 @@
         "padding_top": 0,
         "padding_bottom": 100
       }
+    },
+    "d97a469e-77f2-4711-ba73-883912de8334": {
+      "type": "multicolumn",
+      "blocks": {
+        "e4f7c961-8dee-4425-a845-e39ba0d96b1c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-17.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e4f7c961-8dee-4425-a845-e39ba0d96b1c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
@@ -345,6 +379,7 @@
     "cdd35f06-ecf6-40d6-88d5-8a9cb231f04d",
     "866f9c5b-d99a-4092-8e92-3d2cd5b6db5d",
     "b3b5a025-361c-4d51-b080-ce5a7ea40519",
-    "60bf52a6-bb28-45d6-ad69-8693e74781a0"
+    "60bf52a6-bb28-45d6-ad69-8693e74781a0",
+    "d97a469e-77f2-4711-ba73-883912de8334"
   ]
 }
