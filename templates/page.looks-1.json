@@ -428,8 +428,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 100
       }
     },
     "4093a4a5-d70a-4068-8cbc-79466f7cdce7": {
