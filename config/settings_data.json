@@ -118,7 +118,7 @@
     "checkout_body_font": "Helvetica Neue",
     "checkout_accent_color": "#000000",
     "checkout_button_color": "#fafafa",
-    "checkout_error_color": "#ff0000",
+    "checkout_error_color": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
