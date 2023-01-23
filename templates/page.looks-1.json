@@ -332,19 +332,28 @@
         "padding_bottom": 100
       }
     },
-    "a8411c81-6a0e-47d1-b700-b156328d8c6f": {
-      "type": "image-with-text",
+    "d249c278-b0ab-4d3d-98bc-5d59343befd5": {
+      "type": "collage",
+      "blocks": {
+        "4ae49611-1e53-483e-ab3c-e4eb0f473663": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-24-2.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "4ae49611-1e53-483e-ab3c-e4eb0f473663"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-24.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "right",
-        "padding_top": 88,
+        "padding_top": 80,
         "padding_bottom": 100
       }
     },
@@ -378,7 +387,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 64,
+        "padding_top": 72,
         "padding_bottom": 100
       }
     },
@@ -548,7 +557,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 60,
+        "padding_top": 72,
         "padding_bottom": 100
       }
     },
@@ -573,7 +582,7 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
+        "padding_top": 80,
         "padding_bottom": 100
       }
     }
@@ -591,7 +600,7 @@
     "866f9c5b-d99a-4092-8e92-3d2cd5b6db5d",
     "b3b5a025-361c-4d51-b080-ce5a7ea40519",
     "60bf52a6-bb28-45d6-ad69-8693e74781a0",
-    "a8411c81-6a0e-47d1-b700-b156328d8c6f",
+    "d249c278-b0ab-4d3d-98bc-5d59343befd5",
     "d97a469e-77f2-4711-ba73-883912de8334",
     "cba16492-1b63-4d17-ae7c-1e75b1eaa995",
     "d33e6388-f434-428c-9484-38bf2a4eb268",
