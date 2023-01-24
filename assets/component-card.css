@@ -220,11 +220,12 @@
 @media screen and (max-width: 990px) {
   .card__heading {
     float: none;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   .card__information {
     text-align: center;
     padding: 1.2rem 0;
+    padding-top: 0.2rem;
   }
   .card__content {
     padding: 0.25rem 0;
