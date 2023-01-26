@@ -62,7 +62,7 @@
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 16,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
@@ -90,7 +90,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-3.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-3_ae440eda-3cce-47dd-8649-7cf1e88072fc.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -235,8 +235,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 32
       }
     }
   },
