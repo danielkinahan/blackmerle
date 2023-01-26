@@ -428,6 +428,12 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "Thank you for subscribing to our newsletter.",
+        "disclaimer": " "
+      }
     }
   }
 }
