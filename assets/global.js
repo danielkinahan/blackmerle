@@ -949,7 +949,7 @@ customElements.define('product-recommendations', ProductRecommendations);
 document.querySelector("#shopify-section-announcement-bar > div").insertAdjacentHTML('beforeend', '<strong class="closeX">X</strong>');
 const closeX  = document.querySelector('.closeX');
 closeX.style.position = 'absolute';
-closeX.style.top = '8px';
+closeX.style.top = '5px';
 closeX.style.right = '10px';
 closeX.addEventListener('click', function() {
  document.querySelector("#shopify-section-announcement-bar").style.display = "none"
