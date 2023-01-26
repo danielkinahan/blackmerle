@@ -946,7 +946,7 @@ class ProductRecommendations extends HTMLElement {
 
 customElements.define('product-recommendations', ProductRecommendations);
 
-document.querySelector("#shopify-section-announcement-bar > div").insertAdjacentHTML('beforeend', '<strong class="closeX">X</strong>');
+document.querySelector("#shopify-section-announcement-bar > div").insertAdjacentHTML('beforeend', 'X');
 const closeX  = document.querySelector('.closeX');
 closeX.style.position = 'absolute';
 closeX.style.top = '4px';
