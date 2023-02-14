@@ -25,26 +25,6 @@
             "link": "shopify:\/\/products\/fatigue-pants-lead"
           }
         },
-        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/hooded-jacket-rat-grey"
-          }
-        },
-        "3ebb94e0-f5b3-478a-8935-a2e41735e663": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/rider-pants-wet-stone"
-          }
-        },
         "1a8a8eda-25e8-4134-8b4e-4c1e0d269c7a": {
           "type": "column",
           "settings": {
@@ -64,15 +44,35 @@
             "link_label": "",
             "link": "shopify:\/\/pages\/ss23-layers"
           }
+        },
+        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/hooded-jacket-rat-grey"
+          }
+        },
+        "3ebb94e0-f5b3-478a-8935-a2e41735e663": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/rider-pants-wet-stone"
+          }
         }
       },
       "block_order": [
         "61f0f5ca-bb3b-4620-826f-9e6c61067001",
         "fc1e2f04-d0e2-45ee-ab9f-97385ac6e824",
-        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
-        "3ebb94e0-f5b3-478a-8935-a2e41735e663",
         "1a8a8eda-25e8-4134-8b4e-4c1e0d269c7a",
-        "6c3a5ca3-b6bf-4898-9ab3-d2c7f6fbfaac"
+        "6c3a5ca3-b6bf-4898-9ab3-d2c7f6fbfaac",
+        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
+        "3ebb94e0-f5b3-478a-8935-a2e41735e663"
       ],
       "settings": {
         "title": "",
