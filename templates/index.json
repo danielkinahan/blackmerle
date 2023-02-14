@@ -5,6 +5,7 @@
       "blocks": {
         "61f0f5ca-bb3b-4620-826f-9e6c61067001": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle-home-mid-lead-final.jpg",
             "title": "",
@@ -15,6 +16,7 @@
         },
         "fc1e2f04-d0e2-45ee-ab9f-97385ac6e824": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle-home-fatigue-lead-final.jpg",
             "title": "",
