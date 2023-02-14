@@ -3,26 +3,59 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892": {
+        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_island_2.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/products\/hooded-jacket-rat-grey"
+          }
+        },
+        "3ebb94e0-f5b3-478a-8935-a2e41735e663": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/rider-pants-wet-stone"
+          }
+        },
+        "1a8a8eda-25e8-4134-8b4e-4c1e0d269c7a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_7f99c44a-793f-40f3-84e1-7eff81ea63a8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-1-looks"
+          }
+        },
+        "6c3a5ca3-b6bf-4898-9ab3-d2c7f6fbfaac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-home-layers-final.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-layers"
           }
         }
       },
       "block_order": [
-        "2e5688dc-d9c6-4185-8933-9bd7d2e4c892"
+        "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
+        "3ebb94e0-f5b3-478a-8935-a2e41735e663",
+        "1a8a8eda-25e8-4134-8b4e-4c1e0d269c7a",
+        "6c3a5ca3-b6bf-4898-9ab3-d2c7f6fbfaac"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -30,8 +63,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 48
       }
     }
   },
