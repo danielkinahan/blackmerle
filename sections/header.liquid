@@ -26,18 +26,6 @@
 <noscript>{{ 'component-cart-notification.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
 
-{% assign static_images = "https://cdn.shopify.com/s/files/1/0582/5527/8173/files/About_Static_3dedd64b-3aeb-41d9-afb1-400cfe77ae35.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Info_Static_4b1838a4-44ad-464a-b76f-11a56617b5af.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Shop_Static_15e34cb8-79cf-4148-a9fa-7151657b4650.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Looks_Static_274cba90-ec7d-4ecd-99d8-970b5cd664ee.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/World_Static_bfd52b3c-3551-408a-b1ac-b2a4d236c421.png?v=1673327995" | split: ',' %}
-
-{% assign active_images = "https://cdn.shopify.com/s/files/1/0582/5527/8173/files/About_Active_9d5deff9-8217-460c-a5bb-93efedab6e4d.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Info_Active_56a2ea6e-25ea-4a82-9df7-6dc467425bd5.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Shop_Active_255984c6-50c7-49dc-bd03-033f5594555e.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Looks_Active_1b3d12b5-9f78-45bf-9c03-84a32477146c.png?v=1673327995,
-  https://cdn.shopify.com/s/files/1/0582/5527/8173/files/World_Active_57f522bc-8ecd-4924-a057-12df3d54b531.png?v=1673327996" | split: ',' %}
-
 <style>
   header-drawer {
     justify-self: start;
@@ -46,6 +34,23 @@
 
   .header__heading-logo {
     max-width: {{ section.settings.logo_width }}px;
+  }
+
+  .header__heading-link {
+    text-decoration-line: none;
+    color: black;
+  }
+
+  .header__heading-link:hover {
+    text-shadow: 0.7px 0 0px black;
+  }
+
+  @media screen and (max-width: 749px){
+    .header__heading-link{
+      letter-spacing: 0rem;
+      font-size: 12px;
+      word-break: unset;
+    }
   }
 
   .menu-drawer-container {
@@ -143,18 +148,57 @@
               <div class="menu-drawer__navigation-container">
                 <nav class="menu-drawer__navigation">
                   <ul class="menu-drawer__menu has-submenu list-menu" role="list" style="line-height:0;">
-                    {% for i in (0..4) %}
-                      <li>
-                        <a href="{{ section.settings.menu.links[ i ].url }}" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                            <img src="{{ static_images[ i ] | strip }}" alt="{{ section.settings.menu.links[ i ].title }}"
-                              width="100" height="100" 
-                              loading="lazy" 
-                              style="width: 20rem;height: 7rem;"
-                              onmouseover="this.src='{{ active_images[ i ] | strip }}';"
-                              onmouseout="this.src='{{ static_images[ i ] | strip }}';">
-                        </a>
-                      </li>
-                    {% endfor %}
+                    {% comment %} This was a deliberate decision to not use a for loop. Shopify doesnt allow changing of image URLS and I have no way to iterate over them {% endcomment %}
+                    <li>
+                      <a href="/pages/about" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/About_Static_3dedd64b-3aeb-41d9-afb1-400cfe77ae35.png?v=1673327995" alt="about"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width: 20rem;height: 7rem;"
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/About_Active_9d5deff9-8217-460c-a5bb-93efedab6e4d.png?v=1673327995';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/About_Static_3dedd64b-3aeb-41d9-afb1-400cfe77ae35.png?v=1673327995';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/info" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Info_Static_4b1838a4-44ad-464a-b76f-11a56617b5af.png?v=1673327995" alt="info"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width: 20rem;height: 7rem;"
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Info_Active_56a2ea6e-25ea-4a82-9df7-6dc467425bd5.png?v=1673327995';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Info_Static_4b1838a4-44ad-464a-b76f-11a56617b5af.png?v=1673327995';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/collections/shop" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Shop_Static_15e34cb8-79cf-4148-a9fa-7151657b4650.png?v=1673327995" alt="shop"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width: 20rem;height: 7rem;"
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Shop_Active_255984c6-50c7-49dc-bd03-033f5594555e.png?v=1673327995';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Shop_Static_15e34cb8-79cf-4148-a9fa-7151657b4650.png?v=1673327995';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/looks/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Looks_Static_274cba90-ec7d-4ecd-99d8-970b5cd664ee.png?v=1673327995" alt="looks"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width: 20rem;height: 7rem;"
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Looks_Active_1b3d12b5-9f78-45bf-9c03-84a32477146c.png?v=1673327995';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/Looks_Static_274cba90-ec7d-4ecd-99d8-970b5cd664ee.png?v=1673327995';">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/pages/world" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
+                          <img src="https://cdn.shopify.com/s/files/1/0582/5527/8173/files/World_Static_bfd52b3c-3551-408a-b1ac-b2a4d236c421.png?v=1673327995" alt="world"
+                            width="100" height="100" 
+                            loading="lazy" 
+                            style="width: 20rem;height: 7rem;"
+                            onmouseover="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/World_Active_57f522bc-8ecd-4924-a057-12df3d54b531.png?v=1673327996';"
+                            onmouseout="this.src='https://cdn.shopify.com/s/files/1/0582/5527/8173/files/World_Static_bfd52b3c-3551-408a-b1ac-b2a4d236c421.png?v=1673327995';">
+                          </a>
+                    </li>
                   </ul>
                 </nav>
               </div>
@@ -386,10 +430,18 @@
       {%- endif -%}
     {%- endif -%}
 
-    <div class="header__icons">
-      <!--a href="https://kr.blackmerle.com{{ request.path }}">KR</a>
+    <div class="header__icons" style="font-weight: 525;">
+      <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link"
+        {%- if shop.url == "https://kr.blackmerle.com" -%}
+          style="text-shadow: 0.7px 0 black;"
+        {%- endif -%}
+        >KR</a>
       /
-      <a href="https://blackmerle.com{{ request.path }}">INT</a-->
+      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link"
+        {%- if shop.url == "https://blackmerle.com" -%}
+          style="text-shadow: 0.7px 0 black;"
+        {%- endif -%}
+        >INT</a>
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %}
