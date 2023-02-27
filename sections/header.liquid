@@ -39,6 +39,7 @@
   .header__heading-link {
     text-decoration-line: none;
     color: black;
+    font-size: 1.4rem;
   }
 
   .header__heading-link:hover {
@@ -430,16 +431,16 @@
       {%- endif -%}
     {%- endif -%}
 
-    <div class="header__icons" style="font-weight: 525;">
+    <div class="header__icons" style="font-weight: 400;">
       <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link"
         {%- if shop.url == "https://kr.blackmerle.com" -%}
-          style="text-shadow: 0.7px 0 black;"
+          style="text-shadow: 0.8px 0 black;"
         {%- endif -%}
         >KR</a>
       /
       <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link"
         {%- if shop.url == "https://blackmerle.com" -%}
-          style="text-shadow: 0.7px 0 black;"
+          style="text-shadow: 0.8px 0 black;"
         {%- endif -%}
         >INT</a>
       {%- if shop.customer_accounts_enabled -%}
