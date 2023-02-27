@@ -10,6 +10,16 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
+        "5dca4164-0f35-4c88-8fb6-2f6c51eab13a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_SS23_221_2_launch_3x4_TH.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-2-release"
+          }
+        },
         "9c304917-d9d2-4399-aa3c-fd9148de7a9c": {
           "type": "column",
           "settings": {
@@ -52,6 +62,7 @@
         }
       },
       "block_order": [
+        "5dca4164-0f35-4c88-8fb6-2f6c51eab13a",
         "9c304917-d9d2-4399-aa3c-fd9148de7a9c",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
         "02fa33df-dd82-4723-96d6-0a4e7e7a1612",
