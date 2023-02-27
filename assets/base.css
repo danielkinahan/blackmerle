@@ -577,7 +577,7 @@ table:not([class]) th {
 @media screen and (max-width: 749px) and (min-width: 301px) {
   .header__heading-logo {
     width: 110px;
-    transform: translate(-4rem);
+    transform: translate(-4.2rem);
   }
 }
 
