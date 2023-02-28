@@ -159,6 +159,46 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "cd9a9359-a600-429b-a94b-af60069a24fe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-221-looks-2-detail-6732-S-2X3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1e823221-24ad-47cc-9af8-7137b2d9a90a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-221-looks-2-detail-6772-S-2X3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-221-looks-2-detail-6485-S-2X3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8c7ce566-b869-46e7-bcd1-7a93d6f8b809": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-221-looks-2-detail-6327-S-2X3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -167,7 +207,11 @@
         "c34653a5-bc63-4284-9351-66325b848a88",
         "0a8bc54e-5fdc-4e74-8497-017a64556636",
         "b2ee3fcd-5e27-41c5-9fdf-9e9aab21ee57",
-        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-2"
+        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-2",
+        "cd9a9359-a600-429b-a94b-af60069a24fe",
+        "1e823221-24ad-47cc-9af8-7137b2d9a90a",
+        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90",
+        "8c7ce566-b869-46e7-bcd1-7a93d6f8b809"
       ],
       "settings": {
         "title": "",
