@@ -75,7 +75,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6990.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
