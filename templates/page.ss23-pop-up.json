@@ -55,26 +55,6 @@
     "766b677b-df69-4c00-ab92-af91181b7f06": {
       "type": "multicolumn",
       "blocks": {
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6947.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6952.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2": {
           "type": "column",
           "settings": {
@@ -94,13 +74,33 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6952.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6947.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0",
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1",
         "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2",
-        "74b98414-25be-4bc2-b010-388e48356b25"
+        "74b98414-25be-4bc2-b010-388e48356b25",
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1",
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0"
       ],
       "settings": {
         "title": "",
