@@ -20,10 +20,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "f9ba7a80-3823-4b72-89de-7d5364c2ac31": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0"
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0",
+        "f9ba7a80-3823-4b72-89de-7d5364c2ac31"
       ],
       "settings": {
         "title": "",
