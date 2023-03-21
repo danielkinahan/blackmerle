@@ -52,39 +52,6 @@
         "padding_bottom": 36
       }
     },
-    "cae364cc-f38d-46ec-92cd-86d816945daa": {
-      "type": "collage",
-      "blocks": {
-        "9e844aa1-bb29-418a-9489-1858d72d7290": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6858.jpg",
-            "image_padding": true
-          }
-        },
-        "9b3206cb-23c3-49bb-a3c5-3770ba3be924": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6862.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "9e844aa1-bb29-418a-9489-1858d72d7290",
-        "9b3206cb-23c3-49bb-a3c5-3770ba3be924"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "766b677b-df69-4c00-ab92-af91181b7f06": {
       "type": "multicolumn",
       "blocks": {
@@ -152,6 +119,39 @@
         "padding_bottom": 36
       }
     },
+    "cae364cc-f38d-46ec-92cd-86d816945daa": {
+      "type": "collage",
+      "blocks": {
+        "9e844aa1-bb29-418a-9489-1858d72d7290": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6858.jpg",
+            "image_padding": true
+          }
+        },
+        "9b3206cb-23c3-49bb-a3c5-3770ba3be924": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6862.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "9e844aa1-bb29-418a-9489-1858d72d7290",
+        "9b3206cb-23c3-49bb-a3c5-3770ba3be924"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "719ddb21-ca32-412c-9c86-277bbd649834": {
       "type": "multicolumn",
       "blocks": {
@@ -177,7 +177,7 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -274,8 +274,8 @@
   "order": [
     "main",
     "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac",
-    "cae364cc-f38d-46ec-92cd-86d816945daa",
     "766b677b-df69-4c00-ab92-af91181b7f06",
+    "cae364cc-f38d-46ec-92cd-86d816945daa",
     "719ddb21-ca32-412c-9c86-277bbd649834",
     "76e5c309-9839-4683-ba06-77492592616c",
     "a322683f-8dcf-413b-b1a2-51e2d2065710"
