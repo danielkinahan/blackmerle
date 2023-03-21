@@ -7,9 +7,64 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6929.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0",
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-1",
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac"
   ]
 }
