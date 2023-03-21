@@ -55,14 +55,14 @@
         "template--15444503134301__a322683f-8dcf-413b-b1a2-51e2d2065710-1679394306376a87ff-1": {
           "type": "text",
           "settings": {
-            "text": "<h5>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/h5>",
+            "text": "<h5><a href=\"https:\/\/www.youtube.com\/watch?v=iwMlmzFKxvE\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=iwMlmzFKxvE\">Pair text with an image to focus on<\/a> your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/h5>",
             "text_style": "body"
           }
         },
         "template--15444503134301__a322683f-8dcf-413b-b1a2-51e2d2065710-1679394306376a87ff-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
