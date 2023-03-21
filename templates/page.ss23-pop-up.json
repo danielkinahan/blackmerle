@@ -132,16 +132,6 @@
             "link": ""
           }
         },
-        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6817.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-2": {
           "type": "column",
           "settings": {
@@ -151,12 +141,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6817.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-0",
-        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-1",
-        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-2"
+        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-2",
+        "template--15444503134301__76e5c309-9839-4683-ba06-77492592616c-1679393200819b6bb5-1"
       ],
       "settings": {
         "title": "",
