@@ -72,6 +72,7 @@
         "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
         "3ebb94e0-f5b3-478a-8935-a2e41735e663"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -88,9 +89,35 @@
         "padding_top": 8,
         "padding_bottom": 48
       }
+    },
+    "collage_4paezW": {
+      "type": "collage",
+      "blocks": {
+        "image_QMdVty": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BM_FW24_1932_F.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "image_QMdVty"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 48
+      }
     }
   },
   "order": [
-    "multicolumn"
+    "multicolumn",
+    "collage_4paezW"
   ]
 }
