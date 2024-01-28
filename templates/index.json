@@ -72,7 +72,6 @@
         "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
         "3ebb94e0-f5b3-478a-8935-a2e41735e663"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -104,6 +103,7 @@
       "block_order": [
         "image_QMdVty"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h2",
