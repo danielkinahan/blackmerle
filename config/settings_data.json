@@ -128,10 +128,10 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "ALL ORDERS WILL SHIP OUT ON JAN 25TH",
+              "text": "PRE-ORDER ENDS Feb 18th 22:00 (GMT+9)",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/collections\/shop"
             }
           }
         },
