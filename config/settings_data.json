@@ -126,6 +126,7 @@
         "blocks": {
           "a55200d6-d7d9-4019-979a-91885e4d6f74": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "FW24 PRE-ORDER 10% OFF (ENDS 18 FEB 11:59PM KST)",
               "text_alignment": "center",
