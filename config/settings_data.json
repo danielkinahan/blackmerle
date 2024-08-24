@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -126,9 +135,8 @@
         "blocks": {
           "a55200d6-d7d9-4019-979a-91885e4d6f74": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "FW24 PRE-ORDER 10% OFF (ENDS 18 FEB 11:59PM KST)",
+              "text": "SS25 PRE-ORDER OPENING SOON",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/collections\/shop"
