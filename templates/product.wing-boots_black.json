@@ -99,7 +99,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042093___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8789_-F_109c758a-6369-4d50-bfb4-b4d308215b02.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -109,7 +109,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042112___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8767.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -119,7 +119,17 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042121___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8764.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_63jAk9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8781_-F.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +139,17 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042100___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8760.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RYPxFK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8762__F.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -141,7 +161,9 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
-        "36879f2f-980f-48c4-b01b-218c74fd4ddc"
+        "column_63jAk9",
+        "36879f2f-980f-48c4-b01b-218c74fd4ddc",
+        "column_RYPxFK"
       ],
       "settings": {
         "title": "",
