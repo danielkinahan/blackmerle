@@ -126,10 +126,30 @@
             "link": ""
           }
         },
-        "2debec78-3c0a-4520-bed7-843b3d4dd641": {
+        "column_xENePB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8919-edit-1080-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VefQzJ": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/060132490-edit-claw-fit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2debec78-3c0a-4520-bed7-843b3d4dd641": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060132564_edit_bigff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -141,6 +161,8 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "97f929e9-c8ad-4500-a71d-903208b3343e",
+        "column_xENePB",
+        "column_VefQzJ",
         "2debec78-3c0a-4520-bed7-843b3d4dd641"
       ],
       "settings": {
