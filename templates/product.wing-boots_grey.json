@@ -99,7 +99,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042079___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8769-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -109,7 +109,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042076___F_f.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8777-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -119,7 +119,17 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042081___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8768-f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pifRMN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8772-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +139,17 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0042091___F.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8773-f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g7XLQt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8770-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -141,7 +161,9 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
-        "36879f2f-980f-48c4-b01b-218c74fd4ddc"
+        "column_pifRMN",
+        "36879f2f-980f-48c4-b01b-218c74fd4ddc",
+        "column_g7XLQt"
       ],
       "settings": {
         "title": "",
