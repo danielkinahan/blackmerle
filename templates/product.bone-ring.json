@@ -116,16 +116,6 @@
             "link": ""
           }
         },
-        "column_6fGN8U": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B0043984-ff.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_NrcNRB": {
           "type": "column",
           "settings": {
@@ -146,6 +136,16 @@
             "link": ""
           }
         },
+        "column_6fGN8U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060132484-edit-FIT.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
@@ -160,9 +160,9 @@
       "block_order": [
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
-        "column_6fGN8U",
         "column_NrcNRB",
         "column_TCyEUP",
+        "column_6fGN8U",
         "2debec78-3c0a-4520-bed7-843b3d4dd641"
       ],
       "settings": {
