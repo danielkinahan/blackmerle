@@ -156,6 +156,26 @@
             "link": ""
           }
         },
+        "column_Mea3GB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060132484-edit-FIT.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8MyKWJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060132548-edit-bigf.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_CjjTq7": {
           "type": "column",
           "settings": {
@@ -184,6 +204,8 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "column_XQcezY",
         "column_QJXE9H",
+        "column_Mea3GB",
+        "column_8MyKWJ",
         "column_CjjTq7",
         "column_3BVLpc"
       ],
