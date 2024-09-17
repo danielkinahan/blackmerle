@@ -155,6 +155,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_FkRcR3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B0044164-ff.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UrydTP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B0044156-FIT.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -163,7 +183,9 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_FkRcR3",
+        "column_UrydTP"
       ],
       "settings": {
         "title": "",
