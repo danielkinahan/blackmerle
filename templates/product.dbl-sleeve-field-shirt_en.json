@@ -175,6 +175,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_LtdPXX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060131605-edit-3x4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QVLj8B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060131587-edit-3x4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -185,7 +205,9 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "column_dYdnhE",
-        "column_iA6eCQ"
+        "column_iA6eCQ",
+        "column_LtdPXX",
+        "column_QVLj8B"
       ],
       "settings": {
         "title": "",
