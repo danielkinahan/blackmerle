@@ -15,7 +15,7 @@
         "61f0f5ca-bb3b-4620-826f-9e6c61067001": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BM_FW24_1932_3x4_home.jpg",
+            "image": "shopify:\/\/shop_images\/060131978-edit-3x4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -25,7 +25,27 @@
         "fc1e2f04-d0e2-45ee-ab9f-97385ac6e824": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1914_3x4_home_a5ed49b1-edcc-4e5f-8799-e7d454685fff.jpg",
+            "image": "shopify:\/\/shop_images\/060131484-3x4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_imQeaR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060131447-3_4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yj3MzT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/060131989-3x4_9e5edcd9-a49f-428d-b9e1-da834e6ec896.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -80,6 +100,8 @@
       "block_order": [
         "61f0f5ca-bb3b-4620-826f-9e6c61067001",
         "fc1e2f04-d0e2-45ee-ab9f-97385ac6e824",
+        "column_imQeaR",
+        "column_yj3MzT",
         "1a8a8eda-25e8-4134-8b4e-4c1e0d269c7a",
         "6c3a5ca3-b6bf-4898-9ab3-d2c7f6fbfaac",
         "92ad04de-6a97-4ad1-afd6-9bbbd3c2965f",
