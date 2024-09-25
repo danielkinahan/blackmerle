@@ -114,13 +114,13 @@
     "predictive_search_enabled": false,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "shopify:\/\/shop_images\/blackmerle_favicon_final.png",
+    "favicon": "shopify://shop_images/blackmerle_favicon_final.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_FINAL_2022_1500px.png",
+    "checkout_logo_image": "shopify://shop_images/LOGO_FINAL_2022_1500px.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_sidebar_background_color": "#ffffff",
@@ -135,11 +135,12 @@
         "blocks": {
           "a55200d6-d7d9-4019-979a-91885e4d6f74": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "SS25 PRE-ORDER 10% OFF UNTIL 25 SEPT 5:00PM (KST)",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/shop"
+              "link": "shopify://collections/shop"
             }
           }
         },
@@ -386,7 +387,7 @@
               "type": "text",
               "settings": {
                 "heading": "Heading",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             },
             "image": {
