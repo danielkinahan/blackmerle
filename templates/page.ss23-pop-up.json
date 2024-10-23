@@ -722,6 +722,34 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_THFwBC": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_3XJxKK": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Special thanks to <a href=\"https://www.instagram.com/meclads/\" target=\"_blank\" title=\"https://www.instagram.com/meclads/\">Meclads</a> + <a href=\"https://www.instagram.com/_muryo/\" target=\"_blank\" title=\"https://www.instagram.com/_muryo/\">Hyunsik</a> + <a href=\"https://www.instagram.com/tsukigram/\" target=\"_blank\" title=\"https://www.instagram.com/tsukigram/\">Yoonsik</a></h5><h5>Photos by <a href=\"https://www.instagram.com/ynnnjae/\" target=\"_blank\" title=\"https://www.instagram.com/ynnnjae/\">Yoonjae</a></h5><h5>Video by <a href=\"https://www.instagram.com/jjjusticeee/\" target=\"_blank\" title=\"https://www.instagram.com/jjjusticeee/\">Justice</a></h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_3XJxKK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_5160-logo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
@@ -741,6 +769,7 @@
     "multicolumn_6CdgBc",
     "multicolumn_P67EJW",
     "multicolumn_PzTzrh",
-    "multicolumn_C9HEMV"
+    "multicolumn_C9HEMV",
+    "image_with_text_THFwBC"
   ]
 }
