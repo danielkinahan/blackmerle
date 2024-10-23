@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -13,66 +22,77 @@
         "4300491e-cad5-4cac-a04a-9e41c2b2bf9a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_SS23_ASYM_3x4_TH_1.jpg",
+            "image": "shopify://shop_images/blackmerle_SS23_ASYM_3x4_TH_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-pop-up"
+            "link": "shopify://pages/fw24-meclads-pop-up"
+          }
+        },
+        "column_eVc4L8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_SS23_ASYM_3x4_TH_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/ss23-pop-up"
           }
         },
         "5dca4164-0f35-4c88-8fb6-2f6c51eab13a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_SS23_221_2_launch_3x4_TH.jpg",
+            "image": "shopify://shop_images/blackmerle_SS23_221_2_launch_3x4_TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-2-release"
+            "link": "shopify://pages/ss23-2-release"
           }
         },
         "9c304917-d9d2-4399-aa3c-fd9148de7a9c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-6-final-TH-WORLD.jpg",
+            "image": "shopify://shop_images/blackmerle-looks-2-6-final-TH-WORLD.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-flats"
+            "link": "shopify://pages/ss23-flats"
           }
         },
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_1_final_TH.jpg",
+            "image": "shopify://shop_images/blackmerle_221_world_3_scan_1_final_TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
+            "link": "shopify://pages/ss23-layers"
           }
         },
         "02fa33df-dd82-4723-96d6-0a4e7e7a1612": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/world_template-TH.jpg",
+            "image": "shopify://shop_images/world_template-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-release"
+            "link": "shopify://pages/ss23-1-release"
           }
         },
         "415e459a-19a7-4125-b5b5-f7ed226dcca9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_SS23_221_launch_3x4_TH.jpg",
+            "image": "shopify://shop_images/blackmerle_SS23_221_launch_3x4_TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-launch"
+            "link": "shopify://pages/ss23-launch"
           }
         }
       },
       "block_order": [
         "4300491e-cad5-4cac-a04a-9e41c2b2bf9a",
+        "column_eVc4L8",
         "5dca4164-0f35-4c88-8fb6-2f6c51eab13a",
         "9c304917-d9d2-4399-aa3c-fd9148de7a9c",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
