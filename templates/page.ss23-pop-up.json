@@ -543,40 +543,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_K39Tky": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_egFKPy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_33.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_egFKPy"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_6CdgBc": {
       "type": "multicolumn",
       "blocks": {
@@ -756,6 +722,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_Pck4Yj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3dceV4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_20.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wA6BkA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_24.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3dceV4",
+        "column_wA6BkA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -772,10 +783,10 @@
     "multicolumn_g8THLQ",
     "multicolumn_9rdWBy",
     "multicolumn_gFEgc7",
-    "multicolumn_K39Tky",
     "multicolumn_6CdgBc",
     "multicolumn_P67EJW",
     "multicolumn_PzTzrh",
-    "multicolumn_C9HEMV"
+    "multicolumn_C9HEMV",
+    "multicolumn_Pck4Yj"
   ]
 }
