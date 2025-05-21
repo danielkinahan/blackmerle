@@ -440,7 +440,7 @@
     },
     "email_marketing": {
       "subscribed": {
-        "confirmation": "Thank you! Please check your email to confirm subscription.",
+        "confirmation": "Thank you for subscribing to our newsletter.",
         "disclaimer": " "
       }
     }
