@@ -151,6 +151,46 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_mD3nYJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02752_3x4_big_gravel.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MK9Vhz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02766_3x4_big_gravel_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4M9HFb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02774_3x4_big_gravel_4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g6BMQP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02772_3x4_big_gravel_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -159,7 +199,11 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_mD3nYJ",
+        "column_MK9Vhz",
+        "column_4M9HFb",
+        "column_g6BMQP"
       ],
       "settings": {
         "title": "",
