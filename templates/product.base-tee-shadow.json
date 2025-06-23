@@ -151,6 +151,46 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_j4Ewg8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02852_3x4_big_shadow.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qYKiPN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02864_3x4_big_shadow_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qiCPBr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02874_3x4_big_shadow_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rJJVLH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02581-3x4-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -159,7 +199,11 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_j4Ewg8",
+        "column_qYKiPN",
+        "column_qiCPBr",
+        "column_rJJVLH"
       ],
       "settings": {
         "title": "",
