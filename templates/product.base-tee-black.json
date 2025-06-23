@@ -151,6 +151,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_LYcd4L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02713_3x4_big_black.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NqFhyf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC02737_3x4_big_black_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -159,7 +179,9 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_LYcd4L",
+        "column_NqFhyf"
       ],
       "settings": {
         "title": "",
