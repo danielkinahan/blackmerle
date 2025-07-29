@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,26 +23,37 @@
         "c592a484-3af5-4a5c-aa91-c1432940b69e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2023-2-f_72b234a5-06a5-40db-bdbf-f8bc650d1808.jpg",
+            "image": "shopify://shop_images/blackmerle_fw24_looks_3_thumbnail.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/2023-2-looks"
+            "link": ""
+          }
+        },
+        "column_zW4mdx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-looks-2023-2-f_72b234a5-06a5-40db-bdbf-f8bc650d1808.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/2023-2-looks"
           }
         },
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2023-1-f.jpg",
+            "image": "shopify://shop_images/blackmerle-looks-2023-1-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/2023-1-looks"
+            "link": "shopify://pages/2023-1-looks"
           }
         }
       },
       "block_order": [
         "c592a484-3af5-4a5c-aa91-c1432940b69e",
+        "column_zW4mdx",
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba"
       ],
       "settings": {
