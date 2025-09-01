@@ -95,7 +95,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02538-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02544-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02527-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_6.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02546-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02540-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,27 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02539-3x4-big.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_LYcd4L": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC02713_3x4_big_black.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NqFhyf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC02737_3x4_big_black_2.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_exo_ink_2400_7.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -179,9 +159,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "column_LYcd4L",
-        "column_NqFhyf"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
       ],
       "settings": {
         "title": "",
