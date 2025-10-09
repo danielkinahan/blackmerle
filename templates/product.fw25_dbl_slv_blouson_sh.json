@@ -95,7 +95,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02538-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25__4_8698-edit-2400_5250bf52-3f64-4ab3-bc7e-c9595ddc458b.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02544-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25__4_8689-edit-2400_8113c396-299d-4df4-9e2e-d8bfe12d23ee.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02527-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_DSC06488-edit-2400_25d0d7d2-da0c-4386-adb2-24e10a77ecdc.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02546-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25__4_8715-edit-2400_20c62049-7963-47cd-b31d-8d49efeb9848.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02540-3x4-big.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25__4_8721-edit-2400_455964eb-a32f-4f9d-8c36-cbdb9d1f412c.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,17 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02539-3x4-big.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_LYcd4L": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC02713_3x4_big_black.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25__4_8728-edit-2400_0919902c-85cd-4d31-a249-5366331067ed.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +155,37 @@
         "column_NqFhyf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC02737_3x4_big_black_2.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_DSC06505-edit-2400_7aa3aaae-8ff3-42d1-871b-d5a9aec66fd9.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LYcd4L": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25_DSC06530-edit-2400_d8eb95ca-0f77-40b0-822d-0780e222d4c4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_X3EeMW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25__4_8710-edit-2400_d3ab7bba-a2ef-4aff-87ea-4041e5c492b8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_P4tipB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25__4_8725-edit-2400_7d10d4cb-4310-4158-a709-0b4b28222ebd.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -180,8 +200,10 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_NqFhyf",
         "column_LYcd4L",
-        "column_NqFhyf"
+        "column_X3EeMW",
+        "column_P4tipB"
       ],
       "settings": {
         "title": "",
