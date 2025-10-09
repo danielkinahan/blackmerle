@@ -95,7 +95,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04648_3x4_big.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9252_3x4_big_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04654_3x4_3.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9258_3x4_big_3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04649_3x4_big_2.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9261_3x4_big_4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04665_3x4_big_5.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9268_3x4_big_6.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043301-3X4.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9262_3x4_big_5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043303-4X5.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9271_3x4_big_7.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "column_UFWF9c": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132255-edit-3x4.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9272_3x4_big_8_bd506bf5-4438-4f8f-9b5a-0a78d2983665.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,27 +165,7 @@
         "column_3b9NqH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132124-EDIT-3x4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PG9Tj8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/060132123-EDIT-3x4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_rdfwpT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/060132119-EDIT-3x4.jpg",
+            "image": "shopify://shop_images/25fw_2_moleskin9273.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -201,9 +181,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "column_UFWF9c",
-        "column_3b9NqH",
-        "column_PG9Tj8",
-        "column_rdfwpT"
+        "column_3b9NqH"
       ],
       "settings": {
         "title": "",
