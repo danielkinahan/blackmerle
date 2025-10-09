@@ -113,7 +113,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041981___F2_ec5b02c1-e5d1-47b6-b749-d39d6ffea794.jpg",
+            "image": "shopify://shop_images/fw25-0103-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -123,7 +123,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041983___F2.jpg",
+            "image": "shopify://shop_images/fw25-0092-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -133,7 +133,7 @@
         "column_FWpEFi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041987___F2.jpg",
+            "image": "shopify://shop_images/fw25-coat-0091-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -143,7 +143,7 @@
         "column_h3DF7E": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041988___F2.jpg",
+            "image": "shopify://shop_images/fw25-0126-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -153,7 +153,7 @@
         "column_Bi744z": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042233___F.jpg",
+            "image": "shopify://shop_images/fw25_blackmerle-fw250166-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -163,7 +163,7 @@
         "column_MXwYNL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041992___F2.jpg",
+            "image": "shopify://shop_images/fw25-0159-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -173,7 +173,7 @@
         "column_RUURKC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042212___F_ffc3cd53-03e5-4f35-91ee-827978a57c0f.jpg",
+            "image": "shopify://shop_images/fw25-0169-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -183,7 +183,47 @@
         "column_fhFmmz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042221___F.jpg",
+            "image": "shopify://shop_images/fw25-0151-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_48maRP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fw25-0196-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pKQPam": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fw25-0184_-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Gemn6y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fw25-0067-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_phJXXx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fw25-0080-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -220,6 +260,10 @@
         "column_MXwYNL",
         "column_RUURKC",
         "column_fhFmmz",
+        "column_48maRP",
+        "column_pKQPam",
+        "column_Gemn6y",
+        "column_phJXXx",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa"
       ],
