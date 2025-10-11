@@ -112,20 +112,50 @@
             "link": ""
           }
         },
-        "97f929e9-c8ad-4500-a71d-903208b3343e": {
+        "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9734d-edit-big.jpg",
+            "image": "shopify://shop_images/FW25_2_9737-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "2debec78-3c0a-4520-bed7-843b3d4dd641": {
+        "column_rKcmHm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9737-edit-big.jpg",
+            "image": "shopify://shop_images/FW25_2_9717-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xjTUXm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9729-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FzykfY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/25fw_2_moleskin9191-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TnMKLx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9741-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -142,10 +172,20 @@
             "link": ""
           }
         },
-        "column_zLMgeP": {
+        "column_fDkpKV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9741-edit-big.jpg",
+            "image": "shopify://shop_images/FW25_2_9724-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "97f929e9-c8ad-4500-a71d-903208b3343e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9734d-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -156,10 +196,14 @@
       "block_order": [
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
-        "97f929e9-c8ad-4500-a71d-903208b3343e",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
+        "column_rKcmHm",
+        "column_xjTUXm",
+        "column_FzykfY",
+        "column_TnMKLx",
         "column_Ucjzdc",
-        "column_zLMgeP"
+        "column_fDkpKV",
+        "97f929e9-c8ad-4500-a71d-903208b3343e"
       ],
       "settings": {
         "title": "",
