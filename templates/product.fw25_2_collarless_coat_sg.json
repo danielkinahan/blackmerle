@@ -230,6 +230,26 @@
             "link": ""
           }
         },
+        "column_AbeGGc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/031617280_big-ver22500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Yr8Tzc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/031617389_edit_big-ver22500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
@@ -264,6 +284,8 @@
         "column_pKQPam",
         "column_Gemn6y",
         "column_phJXXx",
+        "column_AbeGGc",
+        "column_Yr8Tzc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa"
       ],
