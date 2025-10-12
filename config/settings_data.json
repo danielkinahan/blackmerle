@@ -188,9 +188,10 @@
           "text_dpVmaF"
         ],
         "custom_css": [
-          ".footer-block.grid__item:nth-child(2) {display: flex !important; justify-content: flex-end !important; padding-left: 0 !important; padding-right: 0 !important;}",
-          ".footer-block.grid__item:nth-child(2) .footer-block__details-content {margin: 0 !important; padding: 0 !important;}",
-          ".footer-block.grid__item:nth-child(2) .footer-block__details-content h6 {display: inline-block !important; margin: 0 !important; padding: 0 !important;}"
+          ".footer-block.grid__item:nth-child(2){display:flex!important;justify-content:flex-end!important;padding:0!important;}",
+          ".footer-block.grid__item:nth-child(2) .footer-block__details-content,.footer-block.grid__item:nth-child(2) .footer-block__details-content h6{margin:0!important;padding:0!important;}",
+          ".footer-block.grid__item:nth-child(2) .footer-block__details-content h6{display:inline-block!important;}",
+          "@media(max-width:799px){.footer-block.grid__item:nth-child(2){align-items:flex-start!important;}}"
         ],
         "settings": {
           "color_scheme": "background-1",
