@@ -437,8 +437,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".footer-block__details-content h6 {text-align: right; margin: 0;}"
-    ]
+    "custom_css": []
   }
 }
