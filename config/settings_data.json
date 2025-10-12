@@ -174,10 +174,18 @@
               "heading": "",
               "menu": "footer"
             }
+          },
+          "text_dpVmaF": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<h6>© 2025 Blackmerle</h6>"
+            }
           }
         },
         "block_order": [
-          "bb32db54-eda1-4dce-b57a-12d96e39fa14"
+          "bb32db54-eda1-4dce-b57a-12d96e39fa14",
+          "text_dpVmaF"
         ],
         "settings": {
           "color_scheme": "background-1",
