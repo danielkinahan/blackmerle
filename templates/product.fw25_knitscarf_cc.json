@@ -151,6 +151,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_7n3LzH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25_distressedalpacasscarf_editbig_00005.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FXH9pW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25_distressedalpacasscarf_editbig_000056.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -159,7 +179,9 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "97f929e9-c8ad-4500-a71d-903208b3343e",
-        "2debec78-3c0a-4520-bed7-843b3d4dd641"
+        "2debec78-3c0a-4520-bed7-843b3d4dd641",
+        "column_7n3LzH",
+        "column_FXH9pW"
       ],
       "settings": {
         "title": "",
