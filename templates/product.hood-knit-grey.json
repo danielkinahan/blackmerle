@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "subtitle": {
           "type": "text",
@@ -27,19 +26,16 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "66671874-11c3-4084-bdb8-101d8c957eaf": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -99,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0043325-F.jpg",
+            "image": "shopify://shop_images/B0043325-F.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -109,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0043328-F.jpg",
+            "image": "shopify://shop_images/B0043328-F.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -119,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0043331-F.jpg",
+            "image": "shopify://shop_images/B0043331-F.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0043339-f.jpg",
+            "image": "shopify://shop_images/B0043339-f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -139,7 +135,7 @@
         "column_cLkygQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060131989-3x4.jpg",
+            "image": "shopify://shop_images/060131989-3x4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -149,7 +145,27 @@
         "column_AeJRrU": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060131441-edit-3x4_3bfab0c8-9401-4707-9fc5-a344423b6c91.jpg",
+            "image": "shopify://shop_images/060131441-edit-3x4_3bfab0c8-9401-4707-9fc5-a344423b6c91.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zLKkWf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_alpaca_hood_knit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DV6YCk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/031621935-edit-2400.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -163,7 +179,9 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "column_cLkygQ",
-        "column_AeJRrU"
+        "column_AeJRrU",
+        "column_zLKkWf",
+        "column_DV6YCk"
       ],
       "settings": {
         "title": "",
