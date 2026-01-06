@@ -1,0 +1,729 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "video_xdbRQw": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify://shop_images/BLACKMERLE_Pop-Up_ss25_Collection_Preview_at_MECLADS_Seoul_BEHIND_THE_SCENES_AUGUST_2024_thumbnail1.jpg",
+        "video_url": "https://www.youtube.com/watch?v=KIVFF307ZOI",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "766b677b-df69-4c00-ab92-af91181b7f06": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_19.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_11.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "74b98414-25be-4bc2-b010-388e48356b25": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6962.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6957.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0",
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1",
+        "74b98414-25be-4bc2-b010-388e48356b25",
+        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_18.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f9ba7a80-3823-4b72-89de-7d5364c2ac31": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0",
+        "f9ba7a80-3823-4b72-89de-7d5364c2ac31"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "719ddb21-ca32-412c-9c86-277bbd649834": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__719ddb21-ca32-412c-9c86-277bbd649834-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_15.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4317a013-79f6-4e3f-bb0e-eebfc57f770a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__719ddb21-ca32-412c-9c86-277bbd649834-1679393200819b6bb5-0",
+        "4317a013-79f6-4e3f-bb0e-eebfc57f770a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "238aca51-47b9-4ed4-b05e-b9dec982b615": {
+      "type": "multicolumn",
+      "blocks": {
+        "ca1240a9-427b-40d3-862a-33b125532be8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_12.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "08c4b2a3-be46-4912-89cc-47f95fd4a0dd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ca1240a9-427b-40d3-862a-33b125532be8",
+        "08c4b2a3-be46-4912-89cc-47f95fd4a0dd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_pUj9kP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iBdPgd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_31.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_REfTWU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_14.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iBdPgd",
+        "column_REfTWU"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "abf9be27-c794-4ddf-bd69-ff95bacc8ac9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__abf9be27-c794-4ddf-bd69-ff95bacc8ac9-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_22.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "23892481-1e4b-4453-a993-9e853b0b2547": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__abf9be27-c794-4ddf-bd69-ff95bacc8ac9-1679393200819b6bb5-0",
+        "23892481-1e4b-4453-a993-9e853b0b2547"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "696bb072-941b-48a5-a190-c167e98dd1cb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15444503134301__696bb072-941b-48a5-a190-c167e98dd1cb-1679393200819b6bb5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_32.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "55a8f472-cbbc-46f9-a395-95c753813054": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15444503134301__696bb072-941b-48a5-a190-c167e98dd1cb-1679393200819b6bb5-0",
+        "55a8f472-cbbc-46f9-a395-95c753813054"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7NQmWd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3Ri6Yz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_34.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_869848": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3Ri6Yz",
+        "column_869848"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_g8THLQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wwh7rz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_35.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VcXcnf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wwh7rz",
+        "column_VcXcnf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_9rdWBy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_j4kYUU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_30.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U648D8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_37.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_j4kYUU",
+        "column_U648D8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_gFEgc7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_m7pEBA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_27.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fHRjdz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_29.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_m7pEBA",
+        "column_fHRjdz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_6CdgBc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ebr8JL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_13.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nWiLdB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_10.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ebr8JL",
+        "column_nWiLdB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_P67EJW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kztTBg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AWi9h7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kztTBg",
+        "column_AWi9h7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_PzTzrh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wFayDW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YzzgTe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wFayDW",
+        "column_YzzgTe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_THFwBC": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_3XJxKK": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Special thanks to <a href=\"https://www.instagram.com/meclads/\" target=\"_blank\" title=\"https://www.instagram.com/meclads/\">Meclads</a> + <a href=\"https://www.instagram.com/tsukigram/\" target=\"_blank\" title=\"https://www.instagram.com/tsukigram/\">Yoonsik</a></h5><h5>Directed by <a href=\"https://www.instagram.com/_muryo/\" target=\"_blank\" title=\"https://www.instagram.com/_muryo/\">Hyunsik</a> </h5><h5>Photos by <a href=\"https://www.instagram.com/yjae.archives/\" target=\"_blank\" title=\"https://www.instagram.com/yjae.archives/\">Yoonjae</a></h5><h5>Video by <a href=\"https://www.instagram.com/jjjusticeee/\" target=\"_blank\" title=\"https://www.instagram.com/jjjusticeee/\">Justice</a></h5><h5>Ceramics by <a href=\"https://www.instagram.com/_siiot/\" target=\"_blank\" title=\"https://www.instagram.com/_siiot/\">Siiot</a></h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_3XJxKK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_25.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "video_xdbRQw",
+    "766b677b-df69-4c00-ab92-af91181b7f06",
+    "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac",
+    "719ddb21-ca32-412c-9c86-277bbd649834",
+    "238aca51-47b9-4ed4-b05e-b9dec982b615",
+    "multicolumn_pUj9kP",
+    "abf9be27-c794-4ddf-bd69-ff95bacc8ac9",
+    "696bb072-941b-48a5-a190-c167e98dd1cb",
+    "multicolumn_7NQmWd",
+    "multicolumn_g8THLQ",
+    "multicolumn_9rdWBy",
+    "multicolumn_gFEgc7",
+    "multicolumn_6CdgBc",
+    "multicolumn_P67EJW",
+    "multicolumn_PzTzrh",
+    "image_with_text_THFwBC"
+  ]
+}
