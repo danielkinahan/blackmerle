@@ -71,8 +71,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "collage_tfL3Ly": {
@@ -105,8 +105,8 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_9ybBHG": {
@@ -149,8 +149,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_imtHfg": {
@@ -193,8 +193,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "719ddb21-ca32-412c-9c86-277bbd649834": {
@@ -237,8 +237,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_pUj9kP": {
@@ -247,7 +247,7 @@
         "column_iBdPgd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/R0003666.jpg",
+            "image": "shopify://shop_images/R0003158.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -257,7 +257,7 @@
         "column_REfTWU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_14.jpg",
+            "image": "shopify://shop_images/R0003666.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -282,8 +282,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "238aca51-47b9-4ed4-b05e-b9dec982b615": {
@@ -347,8 +347,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "696bb072-941b-48a5-a190-c167e98dd1cb": {
@@ -424,8 +424,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_7NQmWd": {
@@ -468,8 +468,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_g8THLQ": {
@@ -489,7 +489,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "",
+            "text": "<p></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -508,7 +508,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "",
+            "text": "<p></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -544,8 +544,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_9rdWBy": {
@@ -589,8 +589,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_j6GEcH": {
@@ -610,7 +610,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "",
+            "text": "<p></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -654,8 +654,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_gFEgc7": {
@@ -699,8 +699,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_6CdgBc": {
@@ -715,26 +715,36 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_dFKa4J": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_Ebr8JL"
+        "column_Ebr8JL",
+        "column_dFKa4J"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_P67EJW": {
@@ -778,8 +788,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_PzTzrh": {
@@ -814,44 +824,104 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
-    "image_with_text_THFwBC": {
-      "type": "image-with-text",
+    "multicolumn_prTfky": {
+      "type": "multicolumn",
       "blocks": {
-        "text_3XJxKK": {
-          "type": "text",
+        "column_R6z4Yy": {
+          "type": "column",
           "settings": {
-            "text": "<h5>Special thanks to <a href=\"https://www.instagram.com/meclads/\" target=\"_blank\" title=\"https://www.instagram.com/meclads/\">Meclads</a> + <a href=\"https://www.instagram.com/tsukigram/\" target=\"_blank\" title=\"https://www.instagram.com/tsukigram/\">Yoonsik</a></h5><h5>Directed by <a href=\"https://www.instagram.com/_muryo/\" target=\"_blank\" title=\"https://www.instagram.com/_muryo/\">Hyunsik</a> </h5><h5>Photos by <a href=\"https://www.instagram.com/yjae.archives/\" target=\"_blank\" title=\"https://www.instagram.com/yjae.archives/\">Yoonjae</a></h5><h5>Video by <a href=\"https://www.instagram.com/jjjusticeee/\" target=\"_blank\" title=\"https://www.instagram.com/jjjusticeee/\">Justice</a></h5><h5>Ceramics by <a href=\"https://www.instagram.com/_siiot/\" target=\"_blank\" title=\"https://www.instagram.com/_siiot/\">Siiot</a></h5>",
-            "text_style": "body"
+            "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aA7ifD": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "text_3XJxKK"
+        "column_R6z4Yy",
+        "column_aA7ifD"
       ],
       "settings": {
-        "image": "shopify://shop_images/blackmerle_meclads_fw24_popup_seoul_25.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 40
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_wYFgQz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wC3R3m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TCKjQa": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wC3R3m",
+        "column_TCKjQa"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     }
   },
@@ -874,6 +944,7 @@
     "multicolumn_6CdgBc",
     "multicolumn_P67EJW",
     "multicolumn_PzTzrh",
-    "image_with_text_THFwBC"
+    "multicolumn_prTfky",
+    "multicolumn_wYFgQz"
   ]
 }
