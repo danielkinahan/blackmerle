@@ -17,6 +17,41 @@
         "padding_bottom": 16
       }
     },
+    "multicolumn_dVma9W": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rzdWTK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_1932_big_F.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rzdWTK"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage_7g3Y6U": {
       "type": "collage",
       "blocks": {
@@ -268,6 +303,7 @@
   },
   "order": [
     "main",
+    "multicolumn_dVma9W",
     "collage_7g3Y6U",
     "1c07ef44-3866-43d3-a4ca-664e1990355b",
     "f07136c0-35c3-46d5-8fc8-20acef951a8c"
