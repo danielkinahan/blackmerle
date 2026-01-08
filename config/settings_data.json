@@ -150,7 +150,9 @@
       },
       "header": {
         "type": "header",
-        "custom_css": [],
+        "custom_css": [
+          "@media (max-width: 768px) {h1.header__heading {transform: translateX(18px); }}"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "logo": "{{ shop.brand.logo }}",
