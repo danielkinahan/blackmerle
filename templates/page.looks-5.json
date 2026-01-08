@@ -219,6 +219,66 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_TTNtYK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_18.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ay64aY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_111.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ECztfd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_98.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WtPC6m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_14.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ba9xYG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r9V7BK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_16.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -241,7 +301,13 @@
         "column_qxQPin",
         "column_YjE3xL",
         "column_YNHKLB",
-        "column_m6ed8a"
+        "column_m6ed8a",
+        "column_TTNtYK",
+        "column_ay64aY",
+        "column_ECztfd",
+        "column_WtPC6m",
+        "column_Ba9xYG",
+        "column_r9V7BK"
       ],
       "settings": {
         "title": "",
