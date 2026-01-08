@@ -219,6 +219,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_GfwUh7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-333.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GXxWeD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-5555.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -241,7 +261,9 @@
         "column_niyDTJ",
         "column_hAX6jy",
         "column_adWa99",
-        "column_QbNPeK"
+        "column_QbNPeK",
+        "column_GfwUh7",
+        "column_GXxWeD"
       ],
       "settings": {
         "title": "",
