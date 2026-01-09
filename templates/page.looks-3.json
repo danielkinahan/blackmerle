@@ -53,6 +53,42 @@
         "accessibility_info": ""
       }
     },
+    "slideshow_88YHQn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_3a9Rre": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-17.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3a9Rre"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
     "f07136c0-35c3-46d5-8fc8-20acef951a8c": {
       "type": "multicolumn",
       "blocks": {
@@ -236,6 +272,7 @@
   "order": [
     "main",
     "slideshow_c3GCKT",
+    "slideshow_88YHQn",
     "f07136c0-35c3-46d5-8fc8-20acef951a8c",
     "multicolumn_d8PRdL",
     "1c07ef44-3866-43d3-a4ca-664e1990355b"
