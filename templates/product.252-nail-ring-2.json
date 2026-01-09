@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "custom_liquid_UPkeAN": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<button onclick=\"history.back()\" class=\"button\">\n  ← Back to shop\n</button>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -180,6 +190,7 @@
     }
   },
   "order": [
+    "custom_liquid_UPkeAN",
     "main",
     "product-recommendations",
     "166383477696d81de8"
