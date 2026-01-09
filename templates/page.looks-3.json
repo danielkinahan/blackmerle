@@ -306,7 +306,7 @@
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "counter",
         "auto_rotate": false,
