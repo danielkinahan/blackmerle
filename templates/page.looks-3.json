@@ -49,7 +49,7 @@
         "template--15416572674141__1c07ef44-3866-43d3-a4ca-664e1990355b-167600292949357f48-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_1566_F_2500.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-49.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,46 +135,6 @@
     "f07136c0-35c3-46d5-8fc8-20acef951a8c": {
       "type": "multicolumn",
       "blocks": {
-        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-221-looks-2-detail-6374-S-2X3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-221-looks-2-detail-6364-S-2X3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c34653a5-bc63-4284-9351-66325b848a88": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-221-looks-2-detail-6156-S-2X3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0a8bc54e-5fdc-4e74-8497-017a64556636": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-221-looks-2-detail-6568-S-2X3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "b2ee3fcd-5e27-41c5-9fdf-9e9aab21ee57": {
           "type": "column",
           "settings": {
@@ -237,10 +197,6 @@
         }
       },
       "block_order": [
-        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-0",
-        "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-1",
-        "c34653a5-bc63-4284-9351-66325b848a88",
-        "0a8bc54e-5fdc-4e74-8497-017a64556636",
         "b2ee3fcd-5e27-41c5-9fdf-9e9aab21ee57",
         "template--15416572674141__f07136c0-35c3-46d5-8fc8-20acef951a8c-16774970922deff5f0-2",
         "cd9a9359-a600-429b-a94b-af60069a24fe",
