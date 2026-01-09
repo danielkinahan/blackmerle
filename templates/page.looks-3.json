@@ -55,12 +55,35 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "8c7ce566-b869-46e7-bcd1-7a93d6f8b809": {
+        }
+      },
+      "block_order": [
+        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 68
+      }
+    },
+    "multicolumn_d8PRdL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BGqDa4": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/blackmerle-221-looks-2-detail-6327-S-2X3.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_1566_F_2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -69,8 +92,7 @@
         }
       },
       "block_order": [
-        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90",
-        "8c7ce566-b869-46e7-bcd1-7a93d6f8b809"
+        "column_BGqDa4"
       ],
       "settings": {
         "title": "",
@@ -183,6 +205,7 @@
     "main",
     "collage_7g3Y6U",
     "f07136c0-35c3-46d5-8fc8-20acef951a8c",
+    "multicolumn_d8PRdL",
     "1c07ef44-3866-43d3-a4ca-664e1990355b"
   ]
 }
