@@ -160,6 +160,15 @@
             {{ 'products.product.xr_button' | t }}
           </button>
         {%- endif -%}
+        {% if collection %}
+  <a href="{{ collection.url }}" class="back-to-shop-thumb">
+    ← Back to shop
+  </a>
+{% else %}
+  <a href="/collections/shop" class="back-to-shop-thumb">
+    ← Back to shop
+  </a>
+{% endif %}
         {%- if media_count > 1 and section.settings.gallery_layout contains 'thumbnail' or section.settings.mobile_thumbnails == 'show' -%}
           <slider-component
             id="GalleryThumbnails-{{ section.id }}"
