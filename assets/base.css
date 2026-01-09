@@ -2965,4 +2965,18 @@ details-disclosure > details {
   .localization-form__select:focus {
     outline: transparent solid 1px;
   }
+}
+.product__media-wrapper {
+  position: relative;
+}
 
+.product__media-wrapper::before {
+  content: "← Back to shop";
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  opacity: 0.6;
+  z-index: 10;
+}
