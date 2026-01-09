@@ -468,16 +468,6 @@
             "link": ""
           }
         },
-        "column_i98EAE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-5.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_mWeXzd": {
           "type": "column",
           "settings": {
@@ -488,20 +478,30 @@
             "link": ""
           }
         },
-        "column_pQTQPi": {
+        "column_BfpG6a": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-26.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-28.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_BfpG6a": {
+        "column_i98EAE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-28.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-29.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pQTQPi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-26.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -592,10 +592,10 @@
       "block_order": [
         "column_88FBrg",
         "column_Bgj7rW",
-        "column_i98EAE",
         "column_mWeXzd",
-        "column_pQTQPi",
         "column_BfpG6a",
+        "column_i98EAE",
+        "column_pQTQPi",
         "column_HAx76h",
         "column_NBUqrk",
         "column_qPiYFe",
