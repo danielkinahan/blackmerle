@@ -59,7 +59,7 @@
         "column_LfBCLm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_1566_F_2500.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-49.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -91,6 +91,16 @@
     "multicolumn_d8PRdL": {
       "type": "multicolumn",
       "blocks": {
+        "column_Y7Gc4h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_BGqDa4": {
           "type": "column",
           "settings": {
@@ -103,6 +113,7 @@
         }
       },
       "block_order": [
+        "column_Y7Gc4h",
         "column_BGqDa4"
       ],
       "settings": {
