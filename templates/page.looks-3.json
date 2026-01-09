@@ -55,10 +55,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_LfBCLm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_1566_F_2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90"
+        "5f781cf9-98d6-4051-a8a7-de4ad02f6f90",
+        "column_LfBCLm"
       ],
       "settings": {
         "title": "",
