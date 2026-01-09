@@ -941,7 +941,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 40,
-        "padding_bottom": 32
+        "padding_bottom": 64
       }
     },
     "slideshow_QgLLCY": {
@@ -979,6 +979,41 @@
         "show_text_below": false,
         "accessibility_info": ""
       }
+    },
+    "multicolumn_kt994P": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eQTYaE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-999.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_eQTYaE"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -993,6 +1028,7 @@
     "multicolumn_4bHxUB",
     "multicolumn_PbLLrt",
     "multicolumn_ELYFFe",
-    "slideshow_QgLLCY"
+    "slideshow_QgLLCY",
+    "multicolumn_kt994P"
   ]
 }
