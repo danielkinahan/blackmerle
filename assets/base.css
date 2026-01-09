@@ -2966,20 +2966,3 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
-/* Create space above product images */
-.product__media-wrapper {
-  padding-top: 28px;
-}
-
-/* Back to shop text */
-.product__media-wrapper::before {
-  content: "← Back to shop";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-size: 12px;
-  letter-spacing: 0.05em;
-  opacity: 0.6;
-}
-
