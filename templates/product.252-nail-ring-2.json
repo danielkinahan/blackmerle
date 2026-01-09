@@ -11,6 +11,7 @@
   "sections": {
     "custom_liquid_UPkeAN": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<button onclick=\"history.back()\" class=\"button\">\n  ← Back to shop\n</button>",
