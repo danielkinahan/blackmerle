@@ -392,6 +392,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_GUyCnR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-47.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bXfGBK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-43.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -404,7 +424,9 @@
         "column_RfJcKX",
         "column_nCP8Rk",
         "column_FC7BJg",
-        "column_nHHEpe"
+        "column_nHHEpe",
+        "column_GUyCnR",
+        "column_bXfGBK"
       ],
       "settings": {
         "title": "",
