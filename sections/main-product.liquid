@@ -160,24 +160,11 @@
             {{ 'products.product.xr_button' | t }}
           </button>
         {%- endif -%}
-
-{% if collection %}
-  <a href="{{ collection.url }}" class="back-to-shop-thumb">
-    ← Back to shop
-  </a>
-{% else %}
-  <a href="/collections/shop" class="back-to-shop-thumb">
-    ← Back to shop
-  </a>
-{% endif %}
-
-{% if media_count > 1 and section.settings.gallery_layout contains 'thumbnail'
-   or section.settings.mobile_thumbnails == 'show' %}
-
-  <slider-component
-    id="GalleryThumbnails-{{ section.id }}"
-    class="thumbnail-slider slider-mobile-gutter quick-add-hidden{% unless section.settings.gallery_layout contains 'thumbnail' %} medium-hide large-up-hide{% endunless %}{% if section.settings.mobile_thumbnails != 'show' %} small-hide{% endif %}{% if media_count <= 3 %} thumbnail-slider--no-slide{% endif %}"
-  >
+        {%- if media_count > 1 and section.settings.gallery_layout contains 'thumbnail' or section.settings.mobile_thumbnails == 'show' -%}
+          <slider-component
+            id="GalleryThumbnails-{{ section.id }}"
+            class="thumbnail-slider slider-mobile-gutter quick-add-hidden{% unless section.settings.gallery_layout contains 'thumbnail' %} medium-hide large-up-hide{% endunless %}{% if section.settings.mobile_thumbnails != 'show' %} small-hide{% endif %}{% if media_count <= 3 %} thumbnail-slider--no-slide{% endif %}"
+          >
             <button
               type="button"
               class="slider-button slider-button--prev{% if media_count <= 3 %} small-hide{% endif %}{% if media_count <= 4 %} medium-hide large-up-hide{% endif %}"
