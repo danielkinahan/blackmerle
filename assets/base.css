@@ -2965,12 +2965,4 @@ details-disclosure > details {
   .localization-form__select:focus {
     outline: transparent solid 1px;
   }
-}.back-to-shop-thumb {
-  display: inline-block;
-  margin-bottom: 10px;
-  font-size: 12px;
-  letter-spacing: 0.05em;
-  opacity: 0.6;
-  text-decoration: none;
-}
 
