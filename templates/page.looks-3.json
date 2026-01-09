@@ -501,7 +501,7 @@
         "column_i98EAE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-28.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-25.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -541,27 +541,7 @@
         "column_8WUUUe": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-7.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_rnjG36": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-7.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pmbi4Y": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-7.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-14.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -587,6 +567,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_pmbi4Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PXHmYG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000029_F_F.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -600,10 +600,10 @@
         "column_NBUqrk",
         "column_qPiYFe",
         "column_8WUUUe",
-        "column_rnjG36",
-        "column_pmbi4Y",
         "column_z7bMDB",
-        "column_m87xrg"
+        "column_m87xrg",
+        "column_pmbi4Y",
+        "column_PXHmYG"
       ],
       "settings": {
         "title": "",
