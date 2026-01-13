@@ -100,6 +100,20 @@
         "padding_bottom": 32
       }
     },
+    "video_Ntc4NT": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https://youtu.be/RgZ6Uz981VE?si=2x_mtieGet2HLW44",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "166383477696d81de8": {
       "type": "multicolumn",
       "blocks": {
@@ -194,6 +208,7 @@
     "custom_liquid_UPkeAN",
     "main",
     "product-recommendations",
+    "video_Ntc4NT",
     "166383477696d81de8"
   ]
 }
