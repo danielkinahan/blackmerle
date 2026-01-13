@@ -89,6 +89,21 @@
         "padding_bottom": 32
       }
     },
+    "video_7PbLwn": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify://shop_images/Screen_Shot_2026-01-13_at_6.09.42_PM.png",
+        "video_url": "https://youtu.be/CeBv_x-dmWg?si=V1QYxlHNrf5zeRu4",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "166383477696d81de8": {
       "type": "multicolumn",
       "blocks": {
@@ -226,6 +241,7 @@
   "order": [
     "main",
     "product-recommendations",
+    "video_7PbLwn",
     "166383477696d81de8"
   ]
 }
