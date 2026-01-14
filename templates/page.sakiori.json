@@ -842,6 +842,56 @@
         "column_R6z4Yy": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/BM-_sakiori8178--edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fDkBpr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.1_8e29f5ac-e324-4635-bd29-664b0a5546e3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_x3pB6B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM__sakiori8179-edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_biqRpC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM__sakiori8171--edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7kdd9M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM_sakiori8173-edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Xzcfxn": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
             "title": "",
             "text": "",
@@ -861,6 +911,11 @@
       },
       "block_order": [
         "column_R6z4Yy",
+        "column_fDkBpr",
+        "column_x3pB6B",
+        "column_biqRpC",
+        "column_7kdd9M",
+        "column_Xzcfxn",
         "column_aA7ifD"
       ],
       "settings": {
@@ -877,7 +932,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 32
+        "padding_bottom": 0
       }
     },
     "multicolumn_wYFgQz": {
