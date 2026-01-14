@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "subtitle": {
           "type": "text",
@@ -27,19 +26,16 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "66671874-11c3-4084-bdb8-101d8c957eaf": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -93,13 +89,28 @@
         "padding_bottom": 32
       }
     },
+    "video_3RxJix": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify://shop_images/blackmerle_925_silver_claw.png",
+        "video_url": "https://youtu.be/F_7D48pnOqI?si=w-EZU-sPMj25oCwZ",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "166383477696d81de8": {
       "type": "multicolumn",
       "blocks": {
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044092-ff.jpg",
+            "image": "shopify://shop_images/B0044092-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -109,7 +120,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044085-ff.jpg",
+            "image": "shopify://shop_images/B0044085-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -119,7 +130,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044100-ff.jpg",
+            "image": "shopify://shop_images/B0044100-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +140,7 @@
         "column_xENePB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044083-ff.jpg",
+            "image": "shopify://shop_images/B0044083-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -139,7 +150,7 @@
         "column_rKGpxX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044088-ff.jpg",
+            "image": "shopify://shop_images/B0044088-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -149,7 +160,7 @@
         "column_WcG4bW": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044099-ff.jpg",
+            "image": "shopify://shop_images/B0044099-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -159,7 +170,7 @@
         "column_9qmV8R": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044164-ff.jpg",
+            "image": "shopify://shop_images/B0044164-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -169,7 +180,7 @@
         "column_EatkhP": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B0044167-ff.jpg",
+            "image": "shopify://shop_images/B0044167-ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -179,7 +190,7 @@
         "column_VefQzJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060132490-edit-claw-fit.jpg",
+            "image": "shopify://shop_images/060132490-edit-claw-fit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -189,7 +200,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060132564_edit_bigff.jpg",
+            "image": "shopify://shop_images/060132564_edit_bigff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -230,6 +241,7 @@
   "order": [
     "main",
     "product-recommendations",
+    "video_3RxJix",
     "166383477696d81de8"
   ]
 }
