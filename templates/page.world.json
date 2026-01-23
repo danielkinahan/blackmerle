@@ -29,16 +29,6 @@
             "link": "shopify://pages/sakiori"
           }
         },
-        "4300491e-cad5-4cac-a04a-9e41c2b2bf9a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_FW24_MECLADS_3x4_TH_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://pages/fw24-meclads-pop-up"
-          }
-        },
         "column_tnDRCP": {
           "type": "column",
           "settings": {
@@ -47,6 +37,16 @@
             "text": "",
             "link_label": "",
             "link": "shopify://pages/obscura-popup"
+          }
+        },
+        "4300491e-cad5-4cac-a04a-9e41c2b2bf9a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_FW24_MECLADS_3x4_TH_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/fw24-meclads-pop-up"
           }
         },
         "column_aE38Yd": {
@@ -122,8 +122,8 @@
       },
       "block_order": [
         "column_bhdUjV",
-        "4300491e-cad5-4cac-a04a-9e41c2b2bf9a",
         "column_tnDRCP",
+        "4300491e-cad5-4cac-a04a-9e41c2b2bf9a",
         "column_aE38Yd",
         "column_eVc4L8",
         "5dca4164-0f35-4c88-8fb6-2f6c51eab13a",
