@@ -17,82 +17,13 @@
         "padding_bottom": 0
       }
     },
-    "766b677b-df69-4c00-ab92-af91181b7f06": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_x_Komune.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_x_Komune_2_jpg.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "74b98414-25be-4bc2-b010-388e48356b25": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6962.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6957.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-0",
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-1",
-        "74b98414-25be-4bc2-b010-388e48356b25",
-        "template--15444503134301__766b677b-df69-4c00-ab92-af91181b7f06-1679393200819b6bb5-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac": {
       "type": "multicolumn",
       "blocks": {
         "template--15444503134301__386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac-1679393200819b6bb5-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_14.png",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_15_9206caf8-842f-4b7c-b6dd-d6ccdd9f05c1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -130,13 +61,47 @@
         "padding_bottom": 36
       }
     },
+    "collage_9eB3D4": {
+      "type": "collage",
+      "blocks": {
+        "image_6PpcqM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_x_Komune_23_7f851ede-205e-46de-a79e-3729a3f43f24.jpg",
+            "image_padding": false
+          }
+        },
+        "image_wBRqqC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_x_Komune_26_6f6c472f-49ac-4197-aa5a-ae5e91fa68a6.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "image_6PpcqM",
+        "image_wBRqqC"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "719ddb21-ca32-412c-9c86-277bbd649834": {
       "type": "multicolumn",
       "blocks": {
         "template--15444503134301__719ddb21-ca32-412c-9c86-277bbd649834-1679393200819b6bb5-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_10.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_27_83d4b97e-61fb-4557-9ae0-99db0396bae9.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -180,7 +145,7 @@
         "ca1240a9-427b-40d3-862a-33b125532be8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_13.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_7_de74fddf-6566-4ba4-8dd1-54cf8d7a9b77.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -224,7 +189,7 @@
         "column_iBdPgd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_11.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_17_bc427aae-a074-44f0-97c0-7df4588f57d1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -234,7 +199,7 @@
         "column_REfTWU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_12.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_16.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -269,7 +234,7 @@
         "template--15444503134301__abf9be27-c794-4ddf-bd69-ff95bacc8ac9-1679393200819b6bb5-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_6.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune9_9fcd75d8-0eb6-4ba0-a314-d1d52ca8b4db.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -313,7 +278,7 @@
         "column_DXVpTi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_4.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_11_9cd72b00-83be-462b-8432-fcc0ed8b83c0.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -323,7 +288,7 @@
         "column_fnfVWG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_5.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_14.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -358,7 +323,7 @@
         "template--15444503134301__696bb072-941b-48a5-a190-c167e98dd1cb-1679393200819b6bb5-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_2.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_25.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -402,7 +367,7 @@
         "column_RzixeG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_13_fbdae8b3-3d53-4941-9135-15b77405d148.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -412,7 +377,7 @@
         "column_YFxKQV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up_7.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_12_2857a18c-4dc1-416b-8d67-e9c779bcafe5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -441,13 +406,146 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_e4x44Y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xtPXgf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_x_Komune_24.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YjQ9F4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xtPXgf",
+        "column_YjQ9F4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_g8THLQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wwh7rz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/J0007656-3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ihfnRd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wwh7rz",
+        "column_ihfnRd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_zerJjy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4HjgHg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/J0007658-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7PLiJC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/J0007657-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4HjgHg",
+        "column_7PLiJC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_7NQmWd": {
       "type": "multicolumn",
       "blocks": {
         "column_3Ri6Yz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up.png",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_22_a0decf33-f9f4-4084-b796-6e04e4759804.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -485,13 +583,22 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_g8THLQ": {
+    "multicolumn_m8yiyy": {
       "type": "multicolumn",
       "blocks": {
-        "column_wwh7rz": {
+        "column_8X9eTQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Blackmerle_FW24_Seoul_pop_up3.jpg",
+            "image": "shopify://shop_images/Blackmerle_x_Komune_10_f6ff6d3b-498a-46b8-9751-7fd0279cac8d.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qyEWDP": {
+          "type": "column",
+          "settings": {
             "title": "",
             "text": "",
             "link_label": "",
@@ -500,7 +607,8 @@
         }
       },
       "block_order": [
-        "column_wwh7rz"
+        "column_8X9eTQ",
+        "column_qyEWDP"
       ],
       "settings": {
         "title": "",
@@ -518,12 +626,87 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_XhtgrT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EeRqdQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_x_Komune_31_386f05d0-b9ae-40c6-a1a5-69257bfd1b65.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_giVRpd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EeRqdQ",
+        "column_giVRpd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xjTTL8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Dp9nA7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_bPHxnk": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Special thanks to <a href=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\" title=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\">Komune</a></h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dp9nA7",
+        "text_bPHxnk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "766b677b-df69-4c00-ab92-af91181b7f06",
     "386acd4d-6b8d-4a72-97b3-78eb6ab6c0ac",
+    "collage_9eB3D4",
     "719ddb21-ca32-412c-9c86-277bbd649834",
     "238aca51-47b9-4ed4-b05e-b9dec982b615",
     "multicolumn_pUj9kP",
@@ -531,7 +714,12 @@
     "multicolumn_JnU7FR",
     "696bb072-941b-48a5-a190-c167e98dd1cb",
     "multicolumn_fhWrk6",
+    "multicolumn_e4x44Y",
+    "multicolumn_g8THLQ",
+    "multicolumn_zerJjy",
     "multicolumn_7NQmWd",
-    "multicolumn_g8THLQ"
+    "multicolumn_m8yiyy",
+    "multicolumn_XhtgrT",
+    "rich_text_xjTTL8"
   ]
 }
