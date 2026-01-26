@@ -39,6 +39,16 @@
             "link": "shopify://pages/obscura-popup"
           }
         },
+        "column_QVd7yB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WORLD_thumbnail_copy_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/komune-popup"
+          }
+        },
         "4300491e-cad5-4cac-a04a-9e41c2b2bf9a": {
           "type": "column",
           "settings": {
@@ -123,6 +133,7 @@
       "block_order": [
         "column_bhdUjV",
         "column_tnDRCP",
+        "column_QVd7yB",
         "4300491e-cad5-4cac-a04a-9e41c2b2bf9a",
         "column_aE38Yd",
         "column_eVc4L8",
