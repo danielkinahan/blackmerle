@@ -175,7 +175,7 @@
         "column_zpkC79": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/031619118_edit_2400.jpg",
+            "image": "shopify://shop_images/blackmerle_ss26_baseshirt_yakwool_6122.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -185,7 +185,27 @@
         "column_imaYNV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/031619121_edit_2400.jpg",
+            "image": "shopify://shop_images/blackmerle_ss26_baseshirt_yakwool_6150.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wgdF3j": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_ss26_baseshirt_yakwool_6185.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UiBgxy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_ss26_baseshirt_yakwool_6134.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -203,7 +223,9 @@
         "column_LYcd4L",
         "column_NqFhyf",
         "column_zpkC79",
-        "column_imaYNV"
+        "column_imaYNV",
+        "column_wgdF3j",
+        "column_UiBgxy"
       ],
       "settings": {
         "title": "",
